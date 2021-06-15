@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BIUSante_bspex1910.pdf" source="derivative">
+    <format>Text PDF</format>
+    <original>BIUSante_bspex1910_abbyy.gz</original>
+    <mtime>1520302025</mtime>
+    <size>27714078</size>
+    <md5>0c13144fbfa3ca814845ba5ff8222aa7</md5>
+    <crc32>db457685</crc32>
+    <sha1>1dc2e29f5ac7aaa6ffc975583e80ec9bcb3f5f04</sha1>
+  </file>
+  <file name="BIUSante_bspex1910_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BIUSante_bspex1910_jp2.zip</original>
+    <mtime>1520292648</mtime>
+    <size>26598712</size>
+    <md5>e717acd9197097491680fe5b15a02b8d</md5>
+    <crc32>10a90fd2</crc32>
+    <sha1>22970b0e486ad005b93f486b186eed16320ce137</sha1>
+  </file>
+  <file name="BIUSante_bspex1910_archive.torrent" source="metadata">
+    <btih>95d3a6e351933b31c39ae7a9df98847dc1aa68c7</btih>
+    <mtime>1548721866</mtime>
+    <size>32238</size>
+    <md5>949581caad45eba3a84a565c11fcffd0</md5>
+    <crc32>508c2f32</crc32>
+    <sha1>1e1bad75041e07380e138a720a2516ccde4d5f30</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BIUSante_bspex1910_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BIUSante_bspex1910_djvu.xml</original>
+    <mtime>1520293213</mtime>
+    <size>1904100</size>
+    <md5>2238c6ceb547d8e51522c14514fddf93</md5>
+    <crc32>4a369e29</crc32>
+    <sha1>e2558f0cd77039000e62f7ad5b1cad81f6a85fd5</sha1>
+  </file>
+  <file name="BIUSante_bspex1910_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BIUSante_bspex1910_abbyy.gz</original>
+    <mtime>1520293155</mtime>
+    <size>17355361</size>
+    <md5>93c4d5307f6949be50664e6ef202e6a4</md5>
+    <crc32>69380a9c</crc32>
+    <sha1>7db444393b5a6ba988030f4ccd65d669bdac010e</sha1>
+  </file>
+  <file name="BIUSante_bspex1910_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>494e4a9dfc8137d6b3e881e9268fc352</md5>
+  </file>
+  <file name="BIUSante_bspex1910_images.zip" source="original">
+    <mtime>1520051139</mtime>
+    <size>344538690</size>
+    <md5>b9fbf59a80f6b56cdf0357f5bf267799</md5>
+    <crc32>09e86860</crc32>
+    <sha1>4de0bda0fb934acc85ca2717c4106a12fc1c05d2</sha1>
+    <format>Generic Raw Book Zip</format>
+  </file>
+  <file name="BIUSante_bspex1910_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BIUSante_bspex1910_images.zip</original>
+    <mtime>1520287079</mtime>
+    <size>349174502</size>
+    <md5>67f2c40e93ccd9b1143bb18888081a2f</md5>
+    <crc32>77d5d661</crc32>
+    <sha1>6d53997023de24692db9b56b6648a07cd1e3a4fd</sha1>
+  </file>
+  <file name="BIUSante_bspex1910_meta.sqlite" source="original">
+    <mtime>1520051155</mtime>
+    <size>12288</size>
+    <md5>c2654a333345b0ce55214adbdde467f0</md5>
+    <crc32>ec40061a</crc32>
+    <sha1>2867f7a1365ba7b925f80edd520b954377c14042</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="BIUSante_bspex1910_meta.xml" source="original">
+    <mtime>1548721863</mtime>
+    <size>1814</size>
+    <format>Metadata</format>
+    <md5>6ccb789270d665a488f56865d28a9035</md5>
+    <crc32>d8d6db6e</crc32>
+    <sha1>93df3d667cc6717c55abd6921c141c1ae7162c12</sha1>
+  </file>
+  <file name="BIUSante_bspex1910_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BIUSante_bspex1910_djvu.xml</original>
+    <mtime>1520293605</mtime>
+    <size>252702</size>
+    <md5>69791f1e87fc65b9f533788236285079</md5>
+    <crc32>fbd874a6</crc32>
+    <sha1>120623db0bd40888be5975e45657198a7867f9d9</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1543019550</mtime>
+    <size>7972</size>
+    <md5>3672700097913e2509ad2204c19737bb</md5>
+    <crc32>f416b1a8</crc32>
+    <sha1>7c68590335b5be6b8ce6481a7074c2d34d17bf57</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
