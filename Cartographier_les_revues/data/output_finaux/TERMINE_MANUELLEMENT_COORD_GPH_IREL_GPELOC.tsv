@@ -1,0 +1,242 @@
+	GPH_code	NAME	Q_code	latitude	longitude	IREL_url	Commentaire
+0		Acores		38.5000	-28.0000		
+1	615.0	Algérie	Q262	28.0	1.0		
+2	255.0	Allemagne	Q183	51.0	10.0		
+3		Angleterre		52.4570	-1.1350		
+4	8152.0	Annam	Q10828323	16.4255	107.1387		
+5		Asie					
+6	6161.0	Bizerte	Q189546	37.274444444444	9.873888888888901		
+7		Bordeaux		44.8333	-0.5667		
+8		Brest		48.3873	-4.4879		
+9		Bretagne		48.16667	-2.83333	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=Bretagne%C3%89tang%20de%20%28Saint-Martin%C3%AEle%29	
+10		Bruxelles		50.8467	4.3524		
+11		Buenos-Ayres		34.6115	58.3934		
+12		Caldwelle-Luc					FAUX POSITIF : nom de maladie
+13		Calédonie		-21.3933	165.6076		INCOMPLET : font référenceà la nouvelle calédonie
+14		Cameroon		5.7450	12.7400		
+15	402.0	Cap-Vert	Q1011	15.916666666666998	-24.083333333333		
+16		Casablanca		33.5739 	7.6013		
+17		Cherbourg		49.6425	1.6253		
+18		Chine		40.7140 	105.4688		
+19		Ching-Wan-Tao		39.8718	119.599		Translittaration de Qinhuangdao
+20		Chitose		43	141.583333		
+21		Châtel-Guyon		45.923	3.071		
+22		Cochinchine		10.7470	106.8750		
+23		Congo Français		0.5100 	14.5000		
+24		Copenhague		55.6759400	12.5655300		
+25		Corse		42.1500 	9.0833		
+26	351.0	Crète	Q34374	35.309722222222	24.893333333333		
+27		Crète		35.309722222222	24.893333333333	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=Cr%C3%A8te%C3%8Ele%20de	
+28	40.0	Cuba	Q241	22.0	-79.5		
+29		Côte d'Ivoire		7.5370	5.3530		
+30		Dakar		14.7522	17.4155		
+31		Danaïde					FAUX POSITIF :Nom de papillon
+32	5802.0	Diégo-Suarez	Q218928	-12.266666666667	49.283333333333		
+33		Djibouti		11.5231	42.2754		
+34		Fachoda		9.8889	32.1094		
+35	220.0	France	Q142	47.0	2.0		
+36	481.0	Gabon	Q1000	-0.68333055555556	11.5		
+37		Gaulois					Faux positif
+38	231.0	Gibraltar	Q1410	36.13775	-5.3453611111110995		
+39		Gibraltar		36.1387	-5.3474	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=GibraltarTerritoire%20britannique	
+40	350.0	Grèce	Q41	38.5	23.0		
+41		Haut-Dahomey		9.6295	2.3375		Nous avons ici indiqué le Dahomey
+42		Havane		23.1165	-82.3882		
+43		Hiroshima		34.4	132.450		
+44	750.0	Inde	Q668	22.8	83.0		
+45		Indo-Chine		16.8839	106.0118		
+46	395.0	Islande	Q189	65.0	-19.0		
+47	740.0	Japon	Q17	35.0	136.0		
+48		Japonais					FAUX POSITIF
+49		Lisbonne		36.1387	9.1345		
+50		Liège		50.6333	5.5667		
+51	4842.0	Loango	Q1479630	-4.7106	11.8378		
+52		Lorient		47.7500 	-3.3667		
+53		Madagascar		-18.913680	47.536130		On a ici indiqué les coordonnées d’Antananarivo
+54		Madrid		40.4234 	3.7038		
+55		Manille		14.6042 	120.9822		
+56	600.0	Maroc	Q1028	32.0	-6.0		
+57		Mecque		21.389082	39.857912		
+58	3253.0	Milan	Q490	45.466944444443996	9.19		
+59		Moncay		21.5333	107.9667		La ville s’appelle ajd Mong Cai.
+60		New-York		40.712784	-74.005941		
+61		Nice		43.7016	7.2705		
+62		Nioro		15.3180 	9.5850		
+63		Nord					FAUX POSITIF
+64		Nouvelle-Orléans		29.9546500	-90.07507		
+65		Paris		48.8534	2.3488		
+66		Peyrelongue		43.425	-0.104		
+67		Phlégéton					FAUX POSITIF
+68		Ping S'Hiang		13.7626600	100.4779800		Translittération de « Ping Jiang », c’est à dire « Rivière Ping ».  Nous avons donné les coordonnées géographiques de Bangkok qui se trouve à l’embouchure du Ping.
+69		Port-Louis		47.7068 	3.3538		
+70		Port-Saïd		31.25654	32.28411		
+71		Portsmouth		50.8167 	1.1167		
+72		Pékin		39.9212	116.3914		
+73		Rochefort		45.9373	0.9665		
+74		Saint-Brieuc		48.5167	-2.7833		
+75		Saint-Mandrier		43.066669	5.93333		
+76		Saint-Pétersbourg		59.9175	30.2895		
+77		Sasebo		33.16834	129.72502		
+78		Saïgon		10.8130	10.8130		
+79		Sidi-Abdallah		37.2744	9.8739		
+80		Smyrne		38.4127	27.1384		
+81		Soudan		13.1200	30.3400		Par édfault, on met le Soudan « anglo-égyptien »
+82		Soudan Français		15.5150	-2.8770		
+83		Sumatra		-0.7300	102.0460		
+84	433.0	Sénégal	Q1041	14.366667000000001	-14.283332999999999		
+85		Terre					
+86		Tokyo		35.6850	139.7514		
+87	8153.0	Tonkin	Q1858	21.0245	105.84116999999999		
+88		Tonkin		21.0245	105.84116999999999	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=Tonkin1er%20territoire%20militaire	
+89		Toulon		43.1177	5.9417		
+90	511.0	Zanzibar	Q1774	-6.1333333333333	39.316666666667		
+91		île de Céram		-3.305	129.501		
+92		île de Groix		47.633331	-3.46667		
+93		île de Porquerolles		42.9967	6.2120		
+94		Extrême-Orient					
+95		Mer Rouge		21.0000	38.0000		
+96		Méditerranée		35	20	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=M%C3%A9diterran%C3%A9eR%C3%A9gion%20g%C3%A9ographique	
+97		Océan Indien		-10	70		
+98		Océan Pacifique		3.51342	-132.1875		
+99		Yen-Thé		21.4834	106.1210		
+100		casamance		12.5863	-16.6699		
+101		cercle de Thiès		14.7665	-16.9511		
+102		golfe de Siam		14.7100	-74.8100		
+103		mer rouge		21.0000	38.0000		
+104		océan Atlantique		10	-25		
+105		océan indien		-10	70		
+106		Binh-Thuan		11.0627	108.0561		
+107		Nouméa		-22.2758	166.4580		
+108		Ogooué		-1.0280	9.0865		Nom d’une région relativement au fleuve Oogoué
+109		Yang-Tsé		30.4984	114.266		On a mis la coordonnnée de Wuhan car la ville se situe au milieu du fleuve et que les articles mentionnent cette ville
+110		Abyssinie		11.4620	38.6650		
+111		Afrique		7.1881	21.09375		
+112	430.0	Afrique occidentale française	Q210682	14.492626000000001	-5.660918		
+113		Amérique					
+114		Androy		-21.05	46.6833		
+115	5813.0	Anjouan	Q231324	-12.215	44.425		
+116		Antilles		18.73333	-69.15		
+117		Antsirane		-12.31732	49.29188		Ajd = Antsiranana
+118		Bahr-el-Ghazal		13.640841	16.490069		
+119		Bambaras					FAUX POSITIF
+120		Baoulé		7.1000	-4.9920	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=Baoul%C3%A9Cours%20d%5Ceau%20%28C%C3%B4te%20d%5CIvoire/Mali%29	
+121	53.0	Barbade	Q244	13.17	-59.5525		
+122		Battambang		13.1027	103.1982		
+123		Bengale		24.4223	88.4194		
+124		Bokoro		12.3810	17.0570		
+125		Bras-de-Pontho		-21.25249	55.45932		
+126		Bridgetown		13.0947	59.6175		
+127		Cambodge		12.9403	104.5459		
+128		Canton		23.1167	113.2500		
+129		Cayenne		4.9316	-52.3155		
+130		Chandernagor		22.8559	88.3800		
+131		Cholon		10.7500	106.6500		
+132		Choquan		10.82302	106.62965		Cho Quan estl’ancien nom de la ville de Saigon, aujourd’hui Ho ChiMinh
+133		Conakry		9.6001	-13.6134		
+134		Congo		-2.4800	23.5100		Par défault on a mis « Congo Belge »Pour Congo »
+135		Congo français		-0.5100	14.5000		
+136		Constantine		36.3650	6.6147		On a mis l’arrondissement. Il y avait plusieurs choix dans IREL.Il y avait aussi Département, division, Province, 
+137		Croyances					Faux Positif
+138		Côte-d'Ivoire		7.5370	-5.3530		
+139		Dahomey		9.6295	2.3375		
+140		Dori		14.0500	-0.0500	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=DoriCercle%20%28Burkina%20Faso%29	
+141		Europe		48.69096	9.14062		
+142		Fouta-Djallon		11.5000	-12.5000		
+143		Grand-Bassam		5.2140	-3.7375	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=Grand-BassamLagune%20de%20%28C%C3%B4te%20d%5CIvoire%29	
+144		Grande-Comore		-11.875119	43.87700649999999		
+145	65.0	Guadeloupe	Q17012	16.25	-61.583333333332995		
+146		Guinée		10.8387	-10.9402		Par défaut, lorsque ‘Guinée’ est mentionnée seule, on a mis « Guinée française »
+147		Guinée Française		10.8387	-10.9402		
+148		Guyane		4.7407	-52.9980		Par défaut, lorsque ‘Guyane’ est mentionnée seule, on a mis «Guyane,colonie française »
+149		Guyane française		4.7407	-52.9980		
+150		Hanoi		21.0333	105.8500		
+151		Hatien		10.416667	104.833333		
+152		Haut-Laos		19.8860100	102.1350300		On a pris pour point de référence la ville de Luan Prabangqui faisait office de capitale du Haut Laos
+153		Haut-Oubangui		4.3700	18.5635		On a mis la ville Bangui car elle était le Chef-lieu du Hau Oubangui
+154		Haut-Sénégal		13.5400	-10.7480		
+155		Hué		16.4619000	107.5954600		
+156		Janeiro		-22.9035	-43.2096		
+157		Kampot		10.6104	104.1814	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=KampotProvince%20%28Cambodge%29	
+158		Kati		12.7430	-8.0737		
+159		Kayes		14.4464	-11.4432		
+160		Labé		11.3167	-12.2833	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=Lab%C3%A9Cercle%20%28Guin%C3%A9e%29	
+161	4781.0	Lagos	Q8673	6.45	3.4		
+162		Lao-Kay		22.4491	103.9980		
+163		Laokay		22.4491	103.9980		
+164	812.0	Laos	Q819	18.2	104.0		
+165		Liptako		14.0500	-0.0500		
+166		Majunga	-15.7166700	46.3166700			S’appelle ajd Mahajanga
+167		Malgaches					Faux Positif
+168		Marquises		-9.781216	-139.081712		
+169	66.0	Martinique	Q17054	14.666666666666998	-61.0		
+170	435.0	Mauritanie	Q1025	21.0	-11.0		
+171	5812.0	Mayotte	Q17063	-12.843055555555999	45.138333333332994		
+172	70.0	Mexique	Q96	23.0	-102.0		
+173		Miquelon		46.9259	-56.3132		
+174		Mong-Tseu		23.3723	103.4020		
+175		Mongtzeu		23.3723	103.4020		
+176		Mongtzé		23.3723	103.4020		
+177		My-Tho		10.3544	106.3641		
+178		Nhatrang		12.2500	109.1833		
+179	436.0	Niger	Q1032	17.0	10.0		
+180		Nouvelle-Galles		-33.8833	151.25		Coordonnées de Woolahra, capitale delaNouvelle Galle
+181		Océanie					
+182		Orizaba		18.85	-97.1		
+183		Oubangui		6.6400	20.3300		
+184		Ouossou		10.0333	-13.65		
+185		Pak-Hoi		21.4789	109.1213		
+186		Perse		32.0725	54.2730		
+187	840.0	Philippines	Q928	12.0	123.0		
+188		Phu-Lang-Thuong		21.2667	106.2000		
+189		Ping-Shiang		13.7626600	100.4779800		Translittération de « Ping Jiang », c’est à dire « Rivière Ping ».  Nous avons donné les coordonnées géographiques de Bangkok qui se trouve à l’embouchure du Ping.
+190		Pondichéry		11.9300	79.8300		
+191		Port					
+192		Porto		41.1496100	-8.6109900		
+193		Rio		-22.9035	-43.2096		Rio de Janeiro
+194		Rufisque		14.7166	-17.2705		
+195	585.0	Réunion	Q17070	-21.114444444444	55.5325		
+196		Saigon		10.8130	106.6583		
+197		Saint-Louis		16.0246	-16.4881		Saint-Louis du Sénégal
+198		Saint-Philippe		16.0246	-16.4881	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=Saint-PhilippeCours%20d%5Ceau%20%28%C3%89tats-Unis%29	Saint-Philippe de la Réunion
+199	9900.0	Samoa	Q683	-14.0	-172.0		
+200		Setchouen		30.9686	103.1658		Nom actuel : Sichuan
+201		Shanghai		31.2298	121.4782		
+202		Somalis		11.5231	42.2754		L’article fait référence à « Djiouti, cheflieu de la côté des somalis »
+203		Soudan français		15.5150	-2.8770		
+204		Surra					Faux Positif (nom de maladie)
+205	4353.0	Tagant	Q843903	18.7	-10.2		
+206		Tagant		18.7	-10.2	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=TagantR%C3%A9gion%20g%C3%A9ographique%20%28Mauritanie%29	
+207	9606.0	Tahiti	Q42000	-17.666666666667	-149.46666666667		
+208		Tamatave		-18.15	49.4167		
+209		Tampico		22.2553	-97.8686		
+210		Tananarive		18.9167	47.5167		
+211	483.0	Tchad	Q657	15.466667000000001	19.4		
+212		Chengdu		30.6667	104.0667		
+213		Thaï-Binh		14.116667	109.1		
+214		Tidjikdja		18.5564400	-11.4271500		
+215		Timbo		10.6324	11.8296		
+216		Togo		8.6110	1.0250		
+217		Tombouctou		16.7680	-3.0022	http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=&lieu=TombouctouCercle%20%28Mali%29	
+218		Vinh		18.6785	105.6801		
+219		Wallis		-14.6645	-177.9578		
+220		Yen-Bay		21.7229	104.9113		
+221	7109.0	Yunnan	Q43194	24.5	101.5		
+222	4362.0	Zinder	Q204365	13.8	8.9833333333333		
+223		delta Tonkinois		20.247632222222222	106.46858019444444		On a pris un point del’embouchure du fleuverouge donnant sur le delta du Tonkin
+224		lac Tchad.		13.0980	14.4120		
+225		île de Saint-Barthélémy		17.9	-62.8333		
+226		île de Saint-Martin		44.644	0.821		
+227		île de la Réunion		-20.8823100	55.4504000		
+228		îles Saint-Pierre		46.7737	-56.1958		
+		Guinée française		10.8387	-10.9402		
+		côte d'Ivoire		7.5370	5.3530		
+		Pak-Hoï		21.4789	109.1213		
+		Pakhoï		21.4789	109.1213		
+		Tchen-Tou		30.6667	104.0667		
+		Tchentou		30.6667	104.0667		
+		Yun-Nam		24.5	101.5		
+		Yun-Nan		24.5	101.5		
+		Yunnam		24.5	101.5		
+		Hanoï		21.0333	105.8500		
+		Lao-kay		22.4491	103.9980		
+		Côte d\'Ivoire		7.5370	5.3530		

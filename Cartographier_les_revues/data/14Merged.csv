@@ -1,0 +1,1143 @@
+,GPH_code,QGIS_PlaceName,start_year,end_year,GPH_status,sovereign_GPH_code
+0,2.0,United States of America,1816,2020.0,Sovereign,
+1,3.0,Alaska,1867,1959.0,Colony of,2.0
+2,4.0,Hawaii,1898,1960.0,Colony of,2.0
+3,5.0,Virgin Islands,1816,1917.0,Colony of,390.0
+4,6.0,Puerto Rico,1898,1952.0,Colony of,2.0
+5,7.0,Texas,1865,2020.0,Part of,2.0
+6,10.0,Greenland,1816,1953.0,Colony of,390.0
+7,11.0,Faeroe Is.,1816,1947.0,Colony of,390.0
+8,20.0,Canada (Province of Canada),1841,1920.0,Colony of,200.0
+9,21.0,Newfoundland and Labrador (Newfoundland),1816,1949.0,Colony of,200.0
+10,30.0,Bermuda,1816,2020.0,Colony of,200.0
+11,31.0,Bahamas,1816,1973.0,Colony of,200.0
+12,40.0,Cuba,1906,2020.0,Sovereign,
+13,41.0,Haiti,1859,1915.0,Sovereign,
+14,42.0,Dominican Republic (Santo Domingo),1865,1916.0,Sovereign,
+15,51.0,Jamaica,1816,1958.0,Colony of,200.0
+16,52.0,Trinidad and Tobago,1816,1958.0,Colony of,200.0
+17,53.0,Barbados,1885,1958.0,Colony of,200.0
+18,54.0,Dominica,1871,1940.0,Part of,1063.0
+19,55.0,Grenada,1833,1958.0,Part of,1055.0
+20,56.0,St. Lucia,1833,1958.0,Part of,1055.0
+21,57.0,St. Vincent and the Grenadines,1833,1958.0,Part of,1055.0
+22,58.0,Antigua & Barbuda,1833,1956.0,Part of,1063.0
+23,59.0,Montserrat,1833,1956.0,Part of,1063.0
+24,60.0,St. Kitts-Nevis,1882,1956.0,Part of,1063.0
+25,65.0,Guadeloupe,1816,1947.0,Colony of,220.0
+26,66.0,Martinique,1816,1947.0,Colony of,220.0
+27,68.0,Netherlands Antilles,1828,1954.0,Colony of,210.0
+28,70.0,Mexico,1821,2020.0,Sovereign,
+29,80.0,Belize (British Honduras),1884,1981.0,Colony of,200.0
+30,90.0,Guatemala,1839,2020.0,Sovereign,
+31,91.0,Honduras,1838,2020.0,Sovereign,
+32,92.0,El Salvador,1841,2020.0,Sovereign,
+33,93.0,Nicaragua,1912,1925.0,Occupied by,2.0
+34,93.0,Nicaragua,1838,2020.0,Sovereign,
+35,94.0,Costa Rica,1838,2020.0,Sovereign,
+36,95.0,Panama,1903,2020.0,Sovereign,
+37,96.0,Panama Canal Zone,1903,1979.0,Leased to,2.0
+38,100.0,Colombia (Gran Colombia),1831,2020.0,Sovereign,
+39,101.0,Venezuela,1830,2020.0,Sovereign,
+40,110.0,Guyana (Br. Guiana),1831,1966.0,Colony of,200.0
+41,115.0,Surinam,1845,1954.0,Colony of,210.0
+42,120.0,French Guyana,1817,1947.0,Colony of,220.0
+43,130.0,Ecuador,1830,2020.0,Sovereign,
+44,135.0,Peru,1839,2020.0,Sovereign,
+45,140.0,Brazil,1822,2020.0,Sovereign,
+46,145.0,Bolivia,1839,2020.0,Sovereign,
+47,150.0,Paraguay,1816,2020.0,Sovereign,
+48,155.0,Chile,1818,2020.0,Sovereign,
+49,160.0,Argentina,1816,2020.0,Sovereign,
+50,165.0,Uruguay,1828,2020.0,Sovereign,
+51,200.0,United Kingdom,1816,2020.0,Sovereign,
+52,205.0,Ireland,1816,1922.0,Part of,200.0
+53,210.0,Netherlands,1816,1940.0,Sovereign,
+54,211.0,Belgium,1830,1940.0,Sovereign,
+55,220.0,France,1816,1942.0,Sovereign,
+56,221.0,Monaco,1861,1940.0,Sovereign (unrecognized),
+57,223.0,Liechtenstein,1867,1990.0,Sovereign (unrecognized),
+58,225.0,Switzerland,1816,2020.0,Sovereign,
+59,230.0,Spain,1816,2020.0,Sovereign,
+60,231.0,Gibraltar,1816,2020.0,Colony of,200.0
+61,232.0,Andorra,1816,1993.0,Sovereign (unrecognized),
+62,235.0,Portugal,1816,2020.0,Sovereign,
+63,239.0,Prussia,1871,1947.0,Part of,255.0
+64,244.0,Brunswick,1871,1945.0,Part of,255.0
+65,245.0,Bavaria,1871,1945.0,Part of,255.0
+66,246.0,Bremen,1867,1945.0,Part of,255.0
+67,248.0,Hamburg,1867,1945.0,Part of,255.0
+68,249.0,Saxony Anhalt (Anhalt),1867,1945.0,Part of,255.0
+69,252.0,Lippe,1867,1945.0,Part of,255.0
+70,253.0,Mecklenburg Strelitz,1867,1934.0,Part of,255.0
+71,255.0,Germany,1871,1945.0,Sovereign,
+72,256.0,Saar,1871,1920.0,Part of,255.0
+73,257.0,Oldenburg,1867,1945.0,Part of,255.0
+74,258.0,"Reuss, Older Line",1867,1945.0,Part of,255.0
+75,259.0,"Reuss, Younger Line",1867,1945.0,Part of,255.0
+76,261.0,Saxe Weimar,1867,1918.0,Part of,255.0
+77,264.0,Saxe Coburg,1867,1920.0,Part of,255.0
+78,266.0,Saxe Meiningen,1867,1918.0,Part of,255.0
+79,267.0,Baden,1871,1945.0,Part of,255.0
+80,268.0,Schwarzburg Sondershausen,1867,1918.0,Part of,255.0
+81,269.0,Saxony,1867,1945.0,Part of,255.0
+82,270.0,Schwarzburg Rudolstadt,1867,1918.0,Part of,255.0
+83,271.0,Wuerttemberg,1871,1945.0,Part of,255.0
+84,272.0,Waldeck,1867,1921.0,Part of,255.0
+85,273.0,Hesse Electoral,1867,1945.0,Part of,239.0
+86,274.0,Schaumburg Lippe,1867,1945.0,Part of,255.0
+87,275.0,Hesse Grand Ducal,1867,1945.0,Part of,239.0
+88,276.0,Lübeck,1867,1945.0,Part of,255.0
+89,280.0,Mecklenburg Schwerin,1867,1934.0,Part of,255.0
+90,290.0,Poland,1816,1918.0,Part of,365.0
+91,290.0,Poland,1867,1918.0,Part of,300.0
+92,290.0,Poland,1816,1918.0,Part of,239.0
+93,291.0,Danzig,1816,1920.0,Part of,239.0
+94,300.0,Austria-Hungary,1867,1918.0,Sovereign,
+95,305.0,Austria,1867,1918.0,Part of,300.0
+96,310.0,Hungary,1867,1918.0,Part of,300.0
+97,316.0,Czech Republic,1867,1918.0,Part of,300.0
+98,317.0,Slovakia,1867,1918.0,Part of,300.0
+99,325.0,Italy,1861,2020.0,Sovereign,
+100,326.0,Trieste,1867,1918.0,Part of,300.0
+101,328.0,Vatican City,1870,1929.0,Part of,325.0
+102,331.0,San Marino,1816,1992.0,Sovereign (unrecognized),
+103,338.0,Malta,1816,1964.0,Colony of,200.0
+104,339.0,Albania,1912,1939.0,Sovereign,
+105,341.0,Montenegro,1878,1915.0,Sovereign (unrecognized),
+106,342.0,Serbia,1878,1918.0,Sovereign,
+107,343.0,"Macedonia, Former Yugoslav Republic of",1912,1993.0,Part of,345.0
+108,344.0,Croatia,1816,1918.0,Part of,640.0
+109,346.0,Bosnia-Herzegovina,1908,1918.0,Part of,300.0
+110,347.0,Kosovo,1912,1999.0,Part of,345.0
+111,349.0,Slovenia,1816,1918.0,Part of,305.0
+112,350.0,Greece,1830,1941.0,Sovereign,
+113,351.0,Crete,1913,2020.0,Part of,350.0
+114,355.0,Bulgaria,1908,2020.0,Sovereign,
+115,359.0,Moldova (Bessarabia) (Moldavian Republic),1816,1917.0,Part of,365.0
+116,360.0,Romania,1878,2020.0,Sovereign,
+117,365.0,Russia (USSR),1816,2020.0,Sovereign,
+118,366.0,Estonia,1816,1918.0,Part of,365.0
+119,367.0,Latvia,1816,1918.0,Part of,365.0
+120,368.0,Lithuania,1816,1918.0,Part of,365.0
+121,369.0,Ukraine,1816,1918.0,Part of,365.0
+122,370.0,Belarus (Byelorussia),1816,1917.0,Part of,365.0
+123,371.0,Armenia,1816,1918.0,Part of,365.0
+124,372.0,Georgia,1816,1918.0,Part of,365.0
+125,373.0,Azerbaijan,1816,1918.0,Part of,365.0
+126,374.0,Transcaucasia,1816,1917.0,Part of,365.0
+127,375.0,Finland,1816,1917.0,Part of,365.0
+128,380.0,Sweden,1816,2020.0,Sovereign,
+129,385.0,Norway,1905,1940.0,Sovereign,
+130,390.0,Denmark,1816,1940.0,Sovereign,
+131,395.0,Iceland,1816,1918.0,Colony of,390.0
+132,400.0,Azores (Western Isles),1831,1976.0,Part of,235.0
+133,401.0,Madeira Isles,1834,1976.0,Part of,235.0
+134,402.0,Cape Verde,1816,1975.0,Colony of,235.0
+135,403.0,Sao Tome-Principe,1816,1975.0,Colony of,235.0
+136,404.0,Guinea-Bissau (Portuguese Guinea),1879,1974.0,Colony of,235.0
+137,410.0,Canary Is.,1821,2020.0,Part of,230.0
+138,411.0,Equatorial Guinea (Spanish Guinea),1816,1960.0,Colony of,230.0
+139,412.0,Rio Muni,1816,1960.0,Part of,411.0
+140,413.0,Fernando Po (Bioko),1843,1960.0,Part of,411.0
+141,420.0,Gambia,1888,1965.0,Colony of,200.0
+142,420.0,Gambia,1894,1965.0,Protectorate of,200.0
+143,430.0,French West Africa,1895,1958.0,Colony of,220.0
+144,432.0,Mali (French Sudan) (Upper Senegal and Niger),1895,1958.0,Part of,430.0
+145,433.0,Senegal,1895,1958.0,Part of,430.0
+146,434.0,Benin (Dahomey),1899,1958.0,Part of,430.0
+147,435.0,Mauritania,1904,1920.0,Protectorate of,220.0
+148,436.0,Niger,1904,1922.0,Occupied by,220.0
+149,437.0,Ivory Coast,1904,1958.0,Part of,430.0
+150,438.0,Guinea (French Guinea) (Rivieres du Sud),1895,1958.0,Part of,430.0
+151,439.0,Burkina Faso (Upper Volta),1904,1932.0,Part of,432.0
+152,450.0,Liberia,1847,1920.0,Sovereign (unrecognized),
+153,451.0,Sierra Leone,1816,1961.0,Colony of,200.0
+154,451.0,Sierra Leone,1896,1961.0,Protectorate of,200.0
+155,452.0,Ghana (Gold Coast),1874,1957.0,Colony of,200.0
+156,460.0,German Togoland,1884,1916.0,Colony of,255.0
+157,470.0,Kamerun,1884,1916.0,Colony of,255.0
+158,480.0,French Equatorial Africa,1910,1958.0,Colony of,220.0
+159,481.0,Gabon,1910,1958.0,Part of,480.0
+160,482.0,Central African Republic (Ubangi Shari),1910,1958.0,Part of,480.0
+161,483.0,Chad,1910,1958.0,Part of,480.0
+162,484.0,Congo (Brazzaville) (French Congo) (Middle Congo),1910,1958.0,Part of,480.0
+163,490.0,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),1908,1960.0,Colony of,211.0
+164,500.0,Uganda,1894,1962.0,Protectorate of,200.0
+165,501.0,Kenya (British East Africa Protectorate),1895,1920.0,Protectorate of,200.0
+166,510.0,Tanzania (Tanganyika) (German East Africa),1891,1916.0,Colony of,255.0
+167,511.0,Zanzibar,1890,1963.0,Protectorate of,200.0
+168,515.0,Ruanda-Urundi,1891,1922.0,Part of,510.0
+169,516.0,Burundi,1891,1962.0,Part of,515.0
+170,517.0,Rwanda,1891,1962.0,Part of,515.0
+171,520.0,Somalia,1884,1960.0,Part of,521.0
+172,520.0,Somalia,1889,1960.0,Part of,5200.0
+173,521.0,Somaliland Republic (British Somaliland),1884,1940.0,Protectorate of,200.0
+174,522.0,Djibouti (Afar and Issas) (French Somaliland),1884,1977.0,Colony of,220.0
+175,530.0,Ethiopia (Abyssinia),1898,1936.0,Sovereign,
+176,531.0,Eritrea,1882,1936.0,Colony of,325.0
+177,540.0,Angola,1816,1975.0,Colony of,235.0
+178,541.0,Mozambique,1816,1975.0,Colony of,235.0
+179,551.0,Zambia (Northern Rhodesia),1911,1953.0,Colony of,200.0
+180,552.0,Zimbabwe (Rhodesia) (Southern Rhodesia),1889,1953.0,Colony of,200.0
+181,553.0,Malawi (Nyasaland) (British Central Africa Protectorate),1891,1953.0,Protectorate of,200.0
+182,560.0,South Africa,1910,1920.0,Colony of,200.0
+183,561.0,Cape Colony,1910,2020.0,Part of,560.0
+184,562.0,Natal,1910,2020.0,Part of,560.0
+185,563.0,Transvaal,1910,2020.0,Part of,560.0
+186,564.0,Orange Free State (Orange River Colony),1910,2020.0,Part of,560.0
+187,565.0,Namibia (South West Africa) (German West Africa),1885,1915.0,Colony of,255.0
+188,569.0,Ciskei,1910,1981.0,Part of,561.0
+189,570.0,Lesotho (Basutoland),1884,1966.0,Colony of,200.0
+190,571.0,Botswana (Bechuanaland),1885,1966.0,Protectorate of,200.0
+191,572.0,Eswatini (Swaziland),1902,1968.0,Colony of,200.0
+192,580.0,Madagascar (Malagasy Republic),1896,1960.0,Colony of,220.0
+193,581.0,Comoros,1912,1946.0,Part of,580.0
+194,585.0,Reunion,1816,1947.0,Colony of,220.0
+195,590.0,Mauritius,1816,1968.0,Colony of,200.0
+196,591.0,Seychelles,1903,1976.0,Colony of,200.0
+197,600.0,Morocco,1912,1956.0,Protectorate of,220.0
+198,601.0,Tangier,1911,1923.0,Part of,602.0
+199,602.0,Spanish Morocco,1912,1946.0,Protectorate of,230.0
+200,605.0,Ifni,1816,1934.0,Part of,600.0
+201,609.0,Sahrawi Arab Democratic Republic (Western Sahara) (Spanish Sahara),1884,1958.0,Protectorate of,230.0
+202,615.0,Algeria,1831,1962.0,Colony of,220.0
+203,616.0,Tunisia,1881,1956.0,Protectorate of,220.0
+204,620.0,"Libya (Tripolitania, Cyrenaica, Fezzan)",1912,1919.0,Colony of,325.0
+205,625.0,North Sudan (Sudan) (Anglo-Egyptian),1898,1956.0,Colony of,200.0
+206,630.0,Iran (Persia),1855,2020.0,Sovereign,
+207,630.0,Iran (Persia),1911,1919.0,Occupied by,200.0
+208,630.0,Iran (Persia),1911,1917.0,Occupied by,365.0
+209,640.0,Turkey (Ottoman Empire),1816,2020.0,Sovereign,
+210,645.0,Iraq (Mesopotamia),1816,1917.0,Part of,640.0
+211,652.0,Syria,1840,1918.0,Part of,640.0
+212,660.0,Lebanon,1816,1918.0,Part of,640.0
+213,663.0,Jordan (Transjordan),1816,1918.0,Part of,640.0
+214,665.0,Palestine,1816,1918.0,Part of,640.0
+215,670.0,Saudi Arabia (Emirate of Nejd),1902,1927.0,Sovereign (unrecognized),
+216,671.0,Hejaz Sultanate,1841,1916.0,Part of,640.0
+217,673.0,Al Hasa,1913,2020.0,Part of,670.0
+218,674.0,Jabal Shammar,1836,1921.0,Sovereign (unrecognized),
+219,678.0,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1871,1918.0,Part of,640.0
+220,681.0,Aden,1838,1962.0,Colony of,200.0
+221,682.0,Aden Protectorate,1872,1937.0,Protectorate of,200.0
+222,690.0,Kuwait,1899,1961.0,Protectorate of,200.0
+223,692.0,Bahrain,1820,1971.0,Protectorate of,200.0
+224,694.0,Qatar,1871,1916.0,Part of,640.0
+225,694.0,Qatar,1896,1971.0,Protectorate of,200.0
+226,696.0,United Arab Emirates (Trucial Oman),1892,1971.0,Protectorate of,200.0
+227,698.0,Oman (Sultanate of Muscat and Oman),1816,1971.0,Sovereign (unrecognized),
+228,700.0,Afghanistan,1879,1919.0,Protectorate of,200.0
+229,701.0,Turkmenistan,1881,1991.0,Part of,365.0
+230,702.0,Tajikistan,1868,1991.0,Part of,365.0
+231,703.0,Kyrgyzstan,1876,1991.0,Part of,365.0
+232,704.0,Uzbekistan,1816,1920.0,Part of,7010.0
+233,704.0,Uzbekistan,1816,1920.0,Part of,7020.0
+234,704.0,Uzbekistan,1816,1920.0,Part of,7030.0
+235,705.0,Kazakhstan,1848,1991.0,Part of,365.0
+236,710.0,People's Republic of China (China),1860,2020.0,Sovereign,
+237,712.0,Mongolia,1911,1919.0,Sovereign (unrecognized),
+238,713.0,Republic of China (Taiwan) (Formosa),1895,1945.0,Colony of,740.0
+239,720.0,Hong Kong,1841,1942.0,Colony of,200.0
+240,721.0,Macao,1816,1999.0,Colony of,235.0
+241,730.0,Korea (Chosen),1910,1945.0,Colony of,740.0
+242,735.0,Far Eastern Republic,1816,1920.0,Part of,365.0
+243,740.0,Japan,1860,1945.0,Sovereign,
+244,741.0,Ryukyu Is.,1879,1945.0,Part of,740.0
+245,750.0,India,1816,1947.0,Colony of,200.0
+246,751.0,French India,1816,1954.0,Colony of,220.0
+247,752.0,"Portuguese India (incl. Goa, Diu, Daman)",1816,1961.0,Colony of,235.0
+248,760.0,Bhutan,1865,1949.0,Protectorate of,200.0
+249,761.0,Sikkim,1861,1949.0,Protectorate of,200.0
+250,770.0,Pakistan,1849,1947.0,Part of,750.0
+251,775.0,Myanmar (Burma),1886,1937.0,Part of,750.0
+252,780.0,Sri Lanka (Ceylon),1833,1948.0,Colony of,200.0
+253,781.0,Maldive Islands,1887,1965.0,Protectorate of,200.0
+254,790.0,Nepal,1816,1923.0,Protectorate of,200.0
+255,800.0,Thailand (Siam),1887,2020.0,Sovereign,
+256,810.0,French Indochina,1887,1941.0,Colony of,220.0
+257,811.0,Cambodia (Kampuchea),1887,1953.0,Part of,810.0
+258,812.0,Laos,1893,1954.0,Part of,810.0
+259,815.0,Vietnam,1887,1949.0,Part of,810.0
+260,821.0,Federated Malay States,1896,1942.0,Colony of,200.0
+261,823.0,Sabah (North Borneo),1888,1942.0,Protectorate of,200.0
+262,824.0,Sarawak,1888,1941.0,Protectorate of,200.0
+263,827.0,Straits Settlements,1826,1942.0,Colony of,200.0
+264,830.0,Singapore,1826,1946.0,Part of,827.0
+265,835.0,Brunei,1888,1941.0,Protectorate of,200.0
+266,840.0,Philippines,1898,1942.0,Colony of,2.0
+267,850.0,Indonesia (Dutch East Indies),1816,1949.0,Colony of,210.0
+268,851.0,West Irian (Dutch New Guinea),1828,1942.0,Part of,850.0
+269,860.0,East Timor (Portuguese Timor),1816,1942.0,Colony of,235.0
+270,900.0,Australia,1901,1919.0,Colony of,200.0
+271,901.0,New South Wales,1901,2020.0,Part of,900.0
+272,902.0,Western Australia,1901,2020.0,Part of,900.0
+273,903.0,South Australia,1901,2020.0,Part of,900.0
+274,904.0,Victoria,1901,2020.0,Part of,900.0
+275,905.0,Queensland,1901,2020.0,Part of,900.0
+276,906.0,Tasmania,1901,2020.0,Part of,900.0
+277,911.0,Papua,1888,1920.0,Colony of,200.0
+278,920.0,New Zealand,1840,1920.0,Colony of,200.0
+279,925.0,Cook Is.,1901,1965.0,Colony of,920.0
+280,930.0,New Caledonia and Dependencies,1853,1946.0,Colony of,220.0
+281,935.0,Vanuatu (New Hebrides),1906,1980.0,Colony of,200.0
+282,935.0,Vanuatu (New Hebrides),1906,1980.0,Colony of,220.0
+283,940.0,Solomon Islands (British Solomon Islands Protectorate),1893,1978.0,Protectorate of,200.0
+284,945.0,Gilbert and Ellice Is.,1892,1916.0,Protectorate of,200.0
+285,946.0,Kiribati,1892,1975.0,Part of,945.0
+286,947.0,Tuvalu,1892,1975.0,Part of,945.0
+287,950.0,Fiji,1874,1970.0,Colony of,200.0
+288,955.0,Tonga (Ha'apai),1900,1970.0,Protectorate of,200.0
+289,960.0,French Polynesia,1903,2020.0,Colony of,220.0
+290,984.0,Northern Marianas Is.,1898,1919.0,Part of,912.0
+291,985.0,Guam,1898,1941.0,Colony of,2.0
+292,986.0,Republic of Palau,1816,1947.0,Part of,9810.0
+293,987.0,Federated States of Micronesia,1816,1947.0,Part of,9810.0
+294,991.0,American Samoa,1900,2020.0,Colony of,2.0
+295,1003.0,Attu and Kiska,1816,1942.0,Part of,3.0
+296,1004.0,North Carolina,1865,2020.0,Part of,2.0
+297,1005.0,Virginia,1865,2020.0,Part of,2.0
+298,1006.0,Tennessee,1865,2020.0,Part of,2.0
+299,1007.0,Arkansas,1865,2020.0,Part of,2.0
+300,1008.0,Florida,1865,2020.0,Part of,2.0
+301,1009.0,South Carolina (Palmetto Republic),1865,2020.0,Part of,2.0
+302,1010.0,Georgia (U.S.),1865,2020.0,Part of,2.0
+303,1011.0,Alabama,1865,2020.0,Part of,2.0
+304,1012.0,Mississippi,1865,2020.0,Part of,2.0
+305,1013.0,Louisiana,1865,2020.0,Part of,2.0
+306,1014.0,California (Great Bear Republic),1846,2020.0,Part of,2.0
+307,1015.0,Cherokee,1816,2020.0,Part of,2.0
+308,1016.0,Oregon (Oregon Country),1848,2020.0,Part of,2.0
+309,1019.0,Rupert's Land,1870,2020.0,Dissolved into,1035.0
+310,1019.0,Rupert's Land,1870,2020.0,Dissolved into,1036.0
+311,1019.0,Rupert's Land,1870,2020.0,Dissolved into,1037.0
+312,1020.0,San Juan Island,1872,2020.0,Part of,2.0
+313,1021.0,Cape Breton I.,1820,2020.0,Part of,1022.0
+314,1022.0,Nova Scotia,1867,2020.0,Part of,20.0
+315,1023.0,New Brunswick,1867,2020.0,Part of,20.0
+316,1024.0,Prince Edward Is.,1873,2020.0,Part of,20.0
+317,1025.0,Quebec (Lower Canada),1841,2020.0,Part of,20.0
+318,1026.0,Ontario (Upper Canada),1841,2020.0,Part of,20.0
+319,1027.0,British Columbia,1871,2020.0,Part of,20.0
+320,1028.0,Vancouver,1866,2020.0,Part of,1027.0
+321,1029.0,St. Pierre and Miquelon,1816,1985.0,Colony of,220.0
+322,1031.0,Mayaguana,1816,1940.0,Part of,31.0
+323,1032.0,Turks and Caicos Is.,1848,1962.0,Part of,51.0
+324,1033.0,Cayman Is.,1816,1962.0,Part of,51.0
+325,1035.0,Manitoba,1870,2020.0,Part of,20.0
+326,1036.0,Alberta,1870,2020.0,Part of,20.0
+327,1037.0,Saskatchewan,1870,2020.0,Part of,20.0
+328,1038.0,Labrador,1816,1927.0,Part of,21.0
+329,1038.0,Labrador,1816,1927.0,Claimed by,20.0
+330,1040.0,Guantanamo,1903,2020.0,Leased to,2.0
+331,1041.0,North Haiti,1820,2020.0,Part of,41.0
+332,1044.0,Navassa I.,1874,2020.0,Claimed by,41.0
+333,1044.0,Navassa I.,1903,2020.0,Dependency of,2.0
+334,1049.0,Tobago,1889,2020.0,Part of,52.0
+335,1055.0,Windward Is.,1833,1960.0,Colony of,200.0
+336,1056.0,Gros Islet Bay,1816,1940.0,Part of,56.0
+337,1058.0,Barbuda,1860,2020.0,Part of,58.0
+338,1061.0,British Virgin Is.,1833,1956.0,Part of,1063.0
+339,1062.0,Anguilla,1882,1969.0,Part of,60.0
+340,1063.0,Leeward Is.,1833,1956.0,Colony of,200.0
+341,1064.0,St. Barthelemy,1878,2007.0,Part of,65.0
+342,1065.0,Curacao,1828,2010.0,Part of,68.0
+343,1066.0,Bonaire,1828,2010.0,Part of,68.0
+344,1067.0,Saba,1828,2010.0,Part of,1074.0
+345,1068.0,Sint Eustatius,1828,2010.0,Part of,1074.0
+346,1069.0,Aruba,1828,1986.0,Part of,68.0
+347,1071.0,Yucatan,1848,2020.0,Part of,70.0
+348,1072.0,Revillagigedo Is,1816,2020.0,Possession of,70.0
+349,1073.0,Sint Maarten,1828,2010.0,Part of,1074.0
+350,1074.0,Dutch Windward Is.,1828,2010.0,Part of,68.0
+351,1075.0,St.Kitts,1882,2020.0,Part of,60.0
+352,1076.0,Nevis,1882,2020.0,Part of,60.0
+353,1077.0,St. Martin,1816,2007.0,Part of,65.0
+354,1081.0,Mosquito Coast,1894,2020.0,Part of,93.0
+355,1082.0,Bay Is.,1860,2020.0,Part of,91.0
+356,1087.0,Swan Is.,1863,1972.0,Leased to,2.0
+357,1088.0,Corn Is.,1839,1916.0,Part of,93.0
+358,1094.0,Cocos I.,1832,2020.0,Possession of,94.0
+359,1097.0,Panama Canal Operating Area,1903,1979.0,Part of,96.0
+360,1101.0,Quita Sueno Bank,1869,1981.0,Claimed by,2.0
+361,1102.0,Roncador Cay,1856,1981.0,Claimed by,2.0
+362,1103.0,Serrana Bank,1856,1981.0,Claimed by,2.0
+363,1104.0,Serranilla Bank,1879,2020.0,Claimed by,2.0
+364,1105.0,San Andres and Providincial Is.,1819,1928.0,Claimed by,100.0
+365,1105.0,San Andres and Providincial Is.,1839,1928.0,Claimed by,93.0
+366,1106.0,Malpelo I.,1819,2020.0,Possession of,100.0
+367,1111.0,Aves I.,1895,2020.0,Possession of,101.0
+368,1113.0,Demerara and Essequibo,1831,2020.0,Part of,110.0
+369,1114.0,Berbice,1831,2020.0,Part of,110.0
+370,1150.0,Free Surinam,1816,2020.0,Part of,115.0
+371,1151.0,Easter I.,1888,1965.0,Colony of,155.0
+372,1152.0,Juan Fernandez I.,1888,1965.0,Possession of,155.0
+373,1153.0,Desventuradas Is. (San Felix and San Ambrosio),1888,1965.0,Possession of,155.0
+374,1154.0,Sala y Gomez,1888,1965.0,Possession of,155.0
+375,1156.0,Araucania,1884,2020.0,Part of,155.0
+376,1161.0,Buenos Aires,1861,2020.0,Part of,160.0
+377,1162.0,Cordoba,1816,2020.0,Part of,160.0
+378,1163.0,Falkland Is.,1833,2020.0,Colony of,200.0
+379,1164.0,South Georgia,1843,1985.0,Part of,1163.0
+380,1166.0,San Juan,1821,2020.0,Part of,160.0
+381,1167.0,Corrientes,1820,2020.0,Part of,160.0
+382,1168.0,Martin Garcia I.,1859,2020.0,Part of,160.0
+383,1201.0,Inini,1816,1930.0,Part of,120.0
+384,1301.0,Galapagos Is.,1832,2020.0,Part of,130.0
+385,1352.0,Chincha Is.,1865,2020.0,Part of,135.0
+386,1401.0,Rio Grande do Sul,1835,2020.0,Part of,140.0
+387,1407.0,Acre,1903,2020.0,Part of,140.0
+388,1408.0,St. Paul's Rocks,1816,1942.0,Discovered,
+389,1409.0,Trindade Island,1895,2020.0,Possession of,140.0
+390,2001.0,Rockall I.,1816,1955.0,Discovered,
+391,2002.0,Lundy,1816,2020.0,Part of,200.0
+392,2201.0,Alsace Lorraine,1871,1918.0,Part of,255.0
+393,2221.0,Roquebrune and Menton,1860,2020.0,Part of,220.0
+394,2246.0,Lauenburg,1867,1945.0,Part of,255.0
+395,2247.0,Schleswig,1867,2020.0,Part of,2555.0
+396,2248.0,Holstein,1867,2020.0,Part of,2555.0
+397,2249.0,Heligoland,1890,1945.0,Part of,255.0
+398,2251.0,Neuchatel,1816,2020.0,Part of,225.0
+399,2292.0,Cracow,1867,1918.0,Part of,300.0
+400,2311.0,Spain-Gibraltar Neutral Zone,1909,2020.0,Neutral or demilitarized zone of,230.0
+401,2311.0,Spain-Gibraltar Neutral Zone,1909,2020.0,Neutral or demilitarized zone of,200.0
+402,2333.0,Ile des Faisans,1816,2020.0,Neutral or demilitarized zone of,220.0
+403,2333.0,Ile des Faisans,1816,2020.0,Neutral or demilitarized zone of,230.0
+404,2481.0,Bergedorf,1867,1945.0,Part of,255.0
+405,2482.0,Schleswig Plebiscite Zone,1867,1920.0,Part of,2555.0
+406,2551.0,Allenstein Plebiscite Zone,1871,1920.0,Part of,255.0
+407,2552.0,Marienwerder Plebiscite Zone,1871,1920.0,Part of,255.0
+408,2553.0,Silesia Plebiscite Zone,1871,1921.0,Part of,255.0
+409,2554.0,Brandenburg,1816,1947.0,Part of,239.0
+410,2555.0,Schleswig-Holstein,1867,1945.0,Part of,239.0
+411,2556.0,Rhineland,1871,1919.0,Part of,255.0
+412,2557.0,Ruhr,1871,1923.0,Part of,255.0
+413,2601.0,Berlin (West Berlin),1871,1945.0,Part of,255.0
+414,3051.0,Klagenfurt Plebiscite Zone,1816,1918.0,Part of,300.0
+415,3052.0,Vorarlberg,1867,1918.0,Part of,300.0
+416,3053.0,Tyrol,1867,1918.0,Part of,300.0
+417,3271.0,Ancona,1861,2020.0,Part of,325.0
+418,3291.0,Sicily,1861,2020.0,Part of,325.0
+419,3326.0,Venezia-Giulia,1867,1918.0,Part of,300.0
+420,3327.0,"S.M.O.M. (Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1822,2020.0,Sovereign (unrecognized),
+421,3343.0,Fiume,1867,1918.0,Part of,300.0
+422,3346.0,Zadar (Zara),1867,1918.0,Part of,300.0
+423,3349.0,Ionian Is.,1864,1941.0,Part of,350.0
+424,3351.0,Corfu,1864,1923.0,Part of,350.0
+425,3353.0,Dodecanese Is. (Aegean Is.),1912,1923.0,Occupied by,325.0
+426,3354.0,Janina,1828,2020.0,Part of,350.0
+427,3355.0,Akrotiri and Dhekelia (British Bases in Cyprus),1816,1960.0,Part of,352.0
+428,3356.0,Castellorizo,1816,1915.0,Part of,640.0
+429,3361.0,Moldavia,1859,2020.0,Part of,360.0
+430,3362.0,Wallachia,1859,2020.0,Part of,360.0
+431,3363.0,Memel,1816,1919.0,Part of,239.0
+432,3364.0,North Ingria,1816,1919.0,Part of,365.0
+433,3374.0,Batum,1878,1918.0,Part of,365.0
+434,3375.0,Daghestan,1816,1917.0,Part of,365.0
+435,3376.0,Nakhichevan,1816,1990.0,Part of,365.0
+436,3378.0,Porkkala,1816,1917.0,Part of,365.0
+437,3379.0,Aland Is.,1854,1917.0,Part of,365.0
+438,3380.0,Hangö,1816,1917.0,Part of,365.0
+439,3381.0,Elba,1861,1944.0,Part of,325.0
+440,3386.0,Svalbard Is.,1816,1925.0,Discovered,
+441,3387.0,Jan Mayen Is.,1816,1921.0,Discovered,
+442,3461.0,Bosnia,1816,2020.0,Part of,640.0
+443,3462.0,Herzegovina,1816,2020.0,Part of,640.0
+444,3471.0,Novi Pazar,1913,2020.0,Part of,345.0
+445,3481.0,Brda,1855,1918.0,Part of,341.0
+446,3501.0,Western Thrace,1816,1919.0,Part of,640.0
+447,3502.0,Mount Athos,1913,2020.0,Dependency of,350.0
+448,3503.0,New Greece,1913,2020.0,Part of,350.0
+449,3504.0,Samos,1913,2020.0,Part of,350.0
+450,3505.0,Lemnos,1913,2020.0,Part of,350.0
+451,3521.0,UN Buffer Zone in Cyprus,1878,1974.0,Part of,352.0
+452,3551.0,Eastern Rumelia,1885,2020.0,Part of,355.0
+453,3592.0,Gagauzia,1816,1994.0,Part of,359.0
+454,3652.0,Altai Republic,1864,1991.0,Part of,365.0
+455,3653.0,Bashkir Republic,1816,1992.0,Part of,365.0
+456,3654.0,Buryatia,1816,1923.0,Colony of,365.0
+457,3655.0,Karelia Republic,1816,1941.0,Part of,365.0
+458,3691.0,Western Ukraine,1867,1918.0,Part of,300.0
+459,3692.0,Northeren Russia,1816,1918.0,Part of,365.0
+460,3693.0,Republic of the Don,1816,1918.0,Part of,365.0
+461,3694.0,Odessa,1816,1918.0,Part of,365.0
+462,3695.0,Crimea,1816,1954.0,Part of,365.0
+463,3696.0,Novorossiya,1829,1917.0,Part of,365.0
+464,3697.0,Donetsk,1816,1918.0,Part of,365.0
+465,3698.0,Luhansk,1816,1918.0,Part of,365.0
+466,3712.0,Artsakh (Republic of Karabakh),1816,1918.0,Part of,365.0
+467,3721.0,Abkhazia,1864,1918.0,Part of,365.0
+468,3722.0,South Ossetia,1816,1918.0,Part of,365.0
+469,3723.0,Adjara,1878,1918.0,Part of,365.0
+470,3761.0,Chechen Republic,1859,1917.0,Part of,365.0
+471,3762.0,"Ingushetia, Republic of",1816,1917.0,Colony of,365.0
+472,3805.0,Sweden-Norway Neutral Zone,1905,2020.0,Neutral or demilitarized zone of,380.0
+473,3901.0,Bornholm I.,1816,2020.0,Part of,390.0
+474,4031.0,Principe,1816,1995.0,Part of,403.0
+475,4041.0,Cacheu,1879,2020.0,Part of,404.0
+476,4042.0,Bissau,1879,2020.0,Part of,404.0
+477,4043.0,Oio,1905,2020.0,Part of,404.0
+478,4050.0,St. Helena,1816,2020.0,Colony of,200.0
+479,4051.0,Longwood,1816,2020.0,Part of,4050.0
+480,4051.0,Longwood,1858,2020.0,Possession of,220.0
+481,4060.0,Tristan da Cunha,1816,1938.0,Possession of,200.0
+482,4070.0,Ascension I.,1816,1922.0,Possession of,200.0
+483,4111.0,Annobon I.,1855,2020.0,Part of,411.0
+484,4112.0,Corisco I.,1858,2020.0,Part of,411.0
+485,4322.0,Timbuctu,1892,2020.0,Part of,432.0
+486,4323.0,Bambuk,1887,1960.0,Part of,432.0
+487,4324.0,Dinguiray,1893,2020.0,Part of,438.0
+488,4325.0,Kaarta,1904,2020.0,Part of,432.0
+489,4326.0,Macina,1895,2020.0,Part of,432.0
+490,4327.0,Segu,1895,2020.0,Part of,432.0
+491,4328.0,Sikasso,1898,2020.0,Part of,432.0
+492,4331.0,Futa Toro,1895,2020.0,Part of,433.0
+493,4332.0,Futa Bondu,1895,2020.0,Part of,433.0
+494,4333.0,Cayor,1895,2020.0,Part of,433.0
+495,4334.0,Rip,1895,2020.0,Part of,433.0
+496,4335.0,Saloum,1895,1958.0,Part of,430.0
+497,4336.0,Sine,1895,1958.0,Part of,430.0
+498,4337.0,Walo,1895,1958.0,Part of,430.0
+499,4338.0,Goree,1859,2020.0,Part of,433.0
+500,4341.0,Old Dahomey,1904,2020.0,Part of,434.0
+501,4342.0,Gun,1894,2020.0,Part of,434.0
+502,4343.0,Ketu,1886,2020.0,Part of,434.0
+503,4344.0,Grand Popo,1894,2020.0,Part of,434.0
+504,4345.0,Ouidah,1894,2020.0,Part of,434.0
+505,4346.0,Anecho (Little Popo),1884,1922.0,Part of,460.0
+506,4347.0,Cotonou,1894,2020.0,Part of,434.0
+507,4348.0,Porto Novo,1894,2020.0,Part of,434.0
+508,4349.0,Ajuda,1816,1961.0,Possession of,235.0
+509,4351.0,Adrar,1909,2020.0,Part of,435.0
+510,4352.0,Brakna,1904,2020.0,Part of,435.0
+511,4353.0,Tagant,1905,2020.0,Part of,435.0
+512,4354.0,Trarza,1904,2020.0,Part of,435.0
+513,4361.0,Aïr,1904,2020.0,Part of,436.0
+514,4362.0,Zinder,1904,2020.0,Part of,436.0
+515,4371.0,Odienne,1898,2020.0,Part of,437.0
+516,4372.0,Grand Bassam,1871,2020.0,Part of,437.0
+517,4373.0,Assini,1871,2020.0,Part of,437.0
+518,4382.0,Kankan,1895,1958.0,Part of,430.0
+519,4391.0,Gurma,1895,1958.0,Part of,430.0
+520,4392.0,Kong,1898,1958.0,Part of,430.0
+521,4394.0,Mamprussi,1895,1958.0,Part of,430.0
+522,4395.0,Ouga Dougou,1896,1958.0,Part of,430.0
+523,4396.0,Yatenga,1895,1958.0,Part of,430.0
+524,4397.0,Busuma,1895,1958.0,Part of,430.0
+525,4398.0,Riziam,1895,1958.0,Part of,430.0
+526,4501.0,Maryland,1857,2020.0,Part of,450.0
+527,4512.0,Aku,1880,2020.0,Part of,451.0
+528,4513.0,Banana Islands,1820,2020.0,Part of,451.0
+529,4514.0,Bumpe,1888,2020.0,Part of,451.0
+530,4515.0,Koya-Temne,1896,2020.0,Part of,451.0
+531,4516.0,Shenge (Plantation Island),1888,2020.0,Part of,451.0
+532,4521.0,Asante,1901,2020.0,Part of,452.0
+533,4522.0,Adansi,1886,2020.0,Part of,452.0
+534,4523.0,Akwamu,1874,2020.0,Part of,452.0
+535,4524.0,Akwapim,1874,2020.0,Part of,452.0
+536,4525.0,Akyem,1874,2020.0,Part of,452.0
+537,4526.0,Dagomba,1899,2020.0,Part of,452.0
+538,4526.0,Dagomba,1899,2020.0,Part of,460.0
+539,4527.0,Denkyira,1874,2020.0,Part of,452.0
+540,4528.0,Fante,1874,2020.0,Part of,452.0
+541,4529.0,Ga,1874,2020.0,Part of,452.0
+542,4531.0,Gonja,1899,2020.0,Part of,452.0
+543,4532.0,Gyamen,1895,2020.0,Part of,452.0
+544,4533.0,Wassa,1874,2020.0,Part of,452.0
+545,4534.0,Danish Posts (Gold Coast),1850,2020.0,Part of,452.0
+546,4535.0,Dutch Posts (Gold Coast),1872,2020.0,Part of,452.0
+547,4536.0,Northern Territories (Gold Coast),1901,2020.0,Part of,452.0
+548,4711.0,Bamum (Bamoun),1884,1919.0,Part of,470.0
+549,4821.0,Bangassou,1906,2020.0,Part of,482.0
+550,4822.0,Rafai,1906,2020.0,Part of,482.0
+551,4823.0,Zemio,1906,2020.0,Part of,482.0
+552,4832.0,Wadai,1913,2020.0,Part of,483.0
+553,4841.0,Bateke (Anziku),1882,2020.0,Part of,484.0
+554,4842.0,Loango,1882,2020.0,Part of,484.0
+555,4902.0,Mwata Yamvo (Lunda),1895,2020.0,Part of,490.0
+556,4903.0,Kalagne,1885,2020.0,Part of,490.0
+557,4904.0,Baluba,1892,2020.0,Part of,490.0
+558,4905.0,Katanga,1885,1960.0,Part of,490.0
+559,4906.0,Kasai,1816,1960.0,Part of,490.0
+560,4907.0,Msiri (Yeke),1899,2020.0,Part of,490.0
+561,4908.0,Azande,1895,2020.0,Part of,490.0
+562,4909.0,Mangbetu,1895,2020.0,Part of,490.0
+563,4910.0,Kuba,1910,2020.0,Part of,490.0
+564,5001.0,Buganda,1894,2020.0,Part of,500.0
+565,5002.0,Ankole,1901,1967.0,Part of,500.0
+566,5003.0,Bunyoro,1899,2020.0,Part of,500.0
+567,5004.0,Busoga,1894,2020.0,Part of,500.0
+568,5005.0,Butoro,1894,2020.0,Part of,500.0
+569,5006.0,Rwenzururu,1894,1962.0,Part of,500.0
+570,5012.0,Mombassa,1887,1963.0,Part of,5011.0
+571,5013.0,Pate,1887,1963.0,Part of,5011.0
+572,5018.0,Wanga (Wanga Kingdom),1887,2020.0,Part of,501.0
+573,5101.0,Ha,1898,2020.0,Part of,510.0
+574,5102.0,Haya,1898,2020.0,Part of,510.0
+575,5103.0,Hehe,1898,2020.0,Part of,510.0
+576,5104.0,Karagwe,1898,2020.0,Part of,510.0
+577,5105.0,Urambo,1891,2020.0,Part of,510.0
+578,5107.0,North Gwangara,1898,2020.0,Part of,510.0
+579,5108.0,South Gwangara,1898,2020.0,Part of,510.0
+580,5200.0,Italian Somaliland,1905,1936.0,Colony of,325.0
+581,5202.0,Oltre Giuba,1895,1925.0,Part of,501.0
+582,5204.0,Obbia,1905,1960.0,Part of,5200.0
+583,5206.0,Puntland,1905,1960.0,Part of,5200.0
+584,5207.0,Mogadishu,1892,2020.0,Part of,5200.0
+585,5208.0,Merca,1890,2020.0,Part of,5200.0
+586,5209.0,Barawa,1889,2020.0,Part of,5200.0
+587,5211.0,Warsheikh,1900,2020.0,Part of,5200.0
+588,5221.0,Tadjoura,1884,2020.0,Part of,522.0
+589,5222.0,Obock,1884,2020.0,Part of,522.0
+590,5301.0,Amhara,1855,2020.0,Part of,530.0
+591,5302.0,Gondar,1855,2020.0,Part of,530.0
+592,5303.0,Shewa,1855,2020.0,Part of,530.0
+593,5304.0,Tigray,1855,2020.0,Part of,530.0
+594,5305.0,Gojjam,1855,2020.0,Part of,530.0
+595,5306.0,Harar,1884,2020.0,Part of,530.0
+596,5307.0,"Jijega, Reserve Areas and Haud",1887,1942.0,Part of,530.0
+597,5309.0,Kaffa,1897,2020.0,Part of,530.0
+598,5321.0,Limmu-Ennarea,1891,2020.0,Part of,530.0
+599,5322.0,Jimma-Kakka (Jimma Abba Jifar),1884,1932.0,Vassal of,530.0
+600,5323.0,Gera,1887,2020.0,Part of,530.0
+601,5324.0,Gomma,1886,2020.0,Part of,530.0
+602,5325.0,Guma,1885,2020.0,Part of,530.0
+603,5331.0,Assab,1882,1936.0,Part of,531.0
+604,5332.0,Awsa Sultanate,1816,1936.0,Sovereign (unrecognized),
+605,5401.0,Chokwe,1816,1917.0,Unknown,
+606,5402.0,Ovimbundu,1903,2020.0,Part of,540.0
+607,5411.0,Kionga,1891,1916.0,Part of,510.0
+608,5515.0,Maseko Ngoni,1899,2020.0,Part of,541.0
+609,5516.0,Shangane (Gaza Empire),1895,2020.0,Part of,541.0
+610,5522.0,Ndebele (Matabeleland),1890,1923.0,Colony of,200.0
+611,5523.0,Mashona,1890,1923.0,Colony of,200.0
+612,5525.0,Mpezeni Ngoni,1898,2020.0,Part of,553.0
+613,5526.0,Kamanga,1898,2020.0,Part of,553.0
+614,5532.0,Ciwere (Chewa),1891,2020.0,Part of,553.0
+615,5601.0,Zulu,1910,2020.0,Part of,560.0
+616,5606.0,Prince Edward and Marion Is.,1816,1919.0,Possession of,200.0
+617,5611.0,"Griqualand, West",1910,2020.0,Part of,560.0
+618,5612.0,British Bechuanaland,1910,2020.0,Part of,560.0
+619,5615.0,Lydenburg Republic,1910,2020.0,Part of,560.0
+620,5618.0,Zoutpansberg,1910,2020.0,Part of,560.0
+621,5651.0,Walvis Bay,1910,1922.0,Part of,560.0
+622,5711.0,Bamangwato,1895,2020.0,Part of,571.0
+623,5797.0,Menabe,1834,2020.0,Part of,5796.0
+624,5798.0,Antaimoro,1823,2020.0,Part of,5796.0
+625,5801.0,Nossi Be,1896,2020.0,Part of,580.0
+626,5802.0,Diego Suarez,1896,2020.0,Part of,580.0
+627,5803.0,St. Marie de Madagascar,1896,2020.0,Part of,580.0
+628,5804.0,Tromelin I.,1816,1954.0,Part of,591.0
+629,5805.0,Bassas Da India I.,1897,2020.0,Possession of,220.0
+630,5806.0,Europa I.,1897,2020.0,Possession of,220.0
+631,5807.0,Juan de Nova I.,1897,2020.0,Possession of,220.0
+632,5808.0,Glorioso I.,1892,2020.0,Possession of,220.0
+633,5809.0,Fort Dauphin,1825,2020.0,Part of,580.0
+634,5811.0,Grand Comoro,1886,1975.0,Part of,581.0
+635,5812.0,Mayotte,1886,1975.0,Part of,581.0
+636,5813.0,Anjouan,1912,1947.0,Colony of,220.0
+637,5901.0,Rodrigues I.,1816,2002.0,Possession of,590.0
+638,5902.0,Agalega Is.,1816,2020.0,Possession of,590.0
+639,5903.0,Cargados Carajos Shoals,1820,2020.0,Possession of,590.0
+640,5920.0,British Indian Ocean Territory (Chagos Archipelago),1816,1965.0,Part of,590.0
+641,6001.0,Oujda,1910,2020.0,Part of,600.0
+642,6021.0,Southern zone of Spanish Morocco,1912,1956.0,Part of,602.0
+643,6023.0,Republic of the Rif,1912,1921.0,Part of,602.0
+644,6030.0,Tetuan,1862,2020.0,Part of,600.0
+645,6061.0,Alhucemas,1913,1956.0,Part of,602.0
+646,6062.0,Ceuta,1913,1956.0,Part of,602.0
+647,6063.0,Chafarinas,1913,1956.0,Part of,602.0
+648,6064.0,Melilla,1913,1956.0,Part of,602.0
+649,6065.0,Penon de Velez,1913,1956.0,Part of,602.0
+650,6066.0,Morocco-Melilla Neutral Zone,1912,1956.0,Part of,602.0
+651,6067.0,Captaincy-general of north Africa,1913,1956.0,Part of,602.0
+652,6152.0,Kabylie,1847,2020.0,Part of,615.0
+653,6161.0,Bizerte,1816,2020.0,Part of,616.0
+654,6202.0,Cyrenaica,1912,1919.0,Part of,620.0
+655,6203.0,Tripolitania,1912,1919.0,Part of,620.0
+656,6251.0,Darfur,1898,1916.0,Sovereign (unrecognized),
+657,6253.0,Kordofan,1898,1994.0,Part of,625.0
+658,6255.0,Shilluk,1882,2020.0,Part of,626.0
+659,6301.0,Mahabad,1816,1946.0,Part of,630.0
+660,6302.0,Iranian Azerbaijan,1816,1945.0,Part of,630.0
+661,6303.0,Gilan,1816,1920.0,Part of,630.0
+662,6304.0,Khuzestan,1816,1925.0,Part of,630.0
+663,6305.0,Bushire,1816,1915.0,Part of,630.0
+664,6306.0,Bandar Abbas,1868,2020.0,Part of,630.0
+665,6309.0,Kharg I.,1838,2020.0,Part of,630.0
+666,6401.0,Cilicia,1816,1918.0,Part of,640.0
+667,6402.0,Western Anatolia,1816,1918.0,Part of,640.0
+668,6404.0,Adalia,1816,1919.0,Part of,640.0
+669,6405.0,Dardanelles-Istanbul,1816,1919.0,Part of,640.0
+670,6511.0,Gaza,1816,1918.0,Part of,640.0
+671,6512.0,Sinai,1816,1956.0,Part of,651.0
+672,6514.0,Suez Canal Zone,1816,2020.0,Part of,651.0
+673,6521.0,Golan Heights,1816,1967.0,Part of,652.0
+674,6523.0,Rouad I.,1816,1916.0,Part of,640.0
+675,6524.0,Damascus,1816,1920.0,Part of,640.0
+676,6525.0,Aleppo,1816,1920.0,Part of,640.0
+677,6526.0,Latakia (Alaouites),1816,1920.0,Part of,640.0
+678,6800.0,Socotra I.,1816,1967.0,Possession of,6846.0
+679,6802.0,Perim I.,1857,1937.0,Possession of,200.0
+680,6821.0,Lahej,1874,1937.0,Part of,682.0
+681,6822.0,Aqrabi,1888,1937.0,Part of,682.0
+682,6823.0,Dhala,1904,1937.0,Part of,682.0
+683,6824.0,Radfan,1816,1937.0,Unknown,
+684,6825.0,Alawi,1872,1937.0,Part of,682.0
+685,6826.0,Haushabi,1895,1937.0,Part of,682.0
+686,6827.0,Maflahi,1850,1962.0,Part of,6829.0
+687,6828.0,Shaibi,1874,1937.0,Part of,682.0
+688,6829.0,Upper Yafai,1903,1937.0,Part of,682.0
+689,6831.0,Lower Yafai,1895,1937.0,Part of,682.0
+690,6832.0,Fadhli,1888,1937.0,Part of,682.0
+691,6833.0,Beihan,1874,1937.0,Part of,682.0
+692,6834.0,Audhali,1890,1937.0,Part of,682.0
+693,6835.0,Upper Aulaqi (Sultanate),1890,1937.0,Part of,682.0
+694,6836.0,Upper Aulaqi (Sheikhdom),1890,1937.0,Part of,682.0
+695,6837.0,Lower Aulaqi,1888,1937.0,Protectorate of,682.0
+696,6838.0,Dathina Confederation,1874,1937.0,Part of,682.0
+697,6841.0,Wahidi,1881,1937.0,Part of,682.0
+698,6842.0,Haura,1902,1937.0,Part of,682.0
+699,6843.0,Irqa,1890,1937.0,Part of,682.0
+700,6844.0,Kathiri of Seiyun,1888,1937.0,Part of,682.0
+701,6845.0,Quaiti of Shihr and Mukalla,1888,1937.0,Part of,682.0
+702,6846.0,Mahri of Qishn and Socotra,1886,1937.0,Part of,682.0
+703,6959.0,Buraimi Neutral Zone,1816,1949.0,Part of,6961.0
+704,6961.0,Abu Dhabi,1820,1971.0,Part of,696.0
+705,6962.0,Dubai,1835,1971.0,Part of,696.0
+706,6963.0,Sharjah,1820,1971.0,Part of,696.0
+707,6964.0,Kalba,1903,1936.0,Protectorate of,200.0
+708,6965.0,Ajman,1820,1971.0,Part of,696.0
+709,6966.0,Umm al Qawain,1820,1971.0,Part of,696.0
+710,6967.0,Ras al Khaimah,1900,1921.0,Part of,6963.0
+711,6968.0,Fujairah,1886,1952.0,Protectorate of,200.0
+712,6971.0,Abu Musa I.,1816,1971.0,Part of,6963.0
+713,6981.0,Inner Oman,1913,1955.0,Part of,698.0
+714,6982.0,Kuria Muria Is.,1854,1967.0,Possession of,200.0
+715,6983.0,Oman-Sharjah Neutral Zone,1816,1969.0,Part of,6963.0
+716,7001.0,Kabul,1842,2020.0,Part of,700.0
+717,7002.0,Kandahar,1841,2020.0,Part of,700.0
+718,7003.0,Herat,1863,2020.0,Part of,700.0
+719,7004.0,Badakhshan,1881,2020.0,Part of,700.0
+720,7010.0,Kokand,1876,1991.0,Part of,365.0
+721,7020.0,Bokhara,1868,1991.0,Part of,365.0
+722,7021.0,Gorno Badakhshan,1895,1925.0,Claimed by,710.0
+723,7021.0,Gorno Badakhshan,1895,1925.0,Claimed by,365.0
+724,7021.0,Gorno Badakhshan,1895,1925.0,Claimed by,700.0
+725,7030.0,Khiva,1873,1920.0,Protectorate of,365.0
+726,7031.0,Karakalpakstan,1873,1936.0,Part of,365.0
+727,7040.0,Kazakh Lesser Horde,1824,1991.0,Part of,365.0
+728,7050.0,Kazakh Middle Horde,1822,1991.0,Part of,365.0
+729,7060.0,Kazakh Horde of Bukey,1845,1991.0,Part of,365.0
+730,7070.0,Kazakh Greater Horde,1848,1991.0,Part of,365.0
+731,7100.0,Spratley Is.,1816,1933.0,Discovered,
+732,7101.0,Ping-nan,1873,2020.0,Part of,710.0
+733,7102.0,Jungaria,1876,2020.0,Part of,710.0
+734,7103.0,Kashgar,1878,2020.0,Part of,710.0
+735,7104.0,Kwangtung Territory (Leased),1905,1945.0,Leased to,740.0
+736,7105.0,Weihaiwei,1898,1930.0,Leased to,200.0
+737,7106.0,Tientsin,1860,1937.0,Leased to,9998.0
+738,7107.0,Anhwei-Fukien,1816,1917.0,Part of,710.0
+739,7108.0,Yangtze Valley,1816,1917.0,Part of,710.0
+740,7109.0,Yunnan,1816,1917.0,Part of,710.0
+741,7110.0,Kwanchowan,1898,1943.0,Leased to,220.0
+742,7110.0,Kwanchowan,1898,1946.0,Part of,810.0
+743,7111.0,Manchuria,1907,1917.0,Part of,710.0
+744,7111.0,Manchuria,1905,1932.0,Occupied by,740.0
+745,7112.0,Szechwan (Sichuan),1912,1949.0,Part of,713.0
+746,7113.0,Chinghai (Tsinghai),1816,1928.0,Part of,710.0
+747,7114.0,Xinjiang (Sinkiang),1816,1937.0,Part of,710.0
+748,7118.0,Ningxia,1816,1958.0,Part of,710.0
+749,7121.0,Inner Mongolia,1816,1937.0,Part of,710.0
+750,7131.0,Diaoyu (Senkaku) Is.,1895,1945.0,Occupied by,740.0
+751,7302.0,Kaesong,1816,1945.0,Part of,730.0
+752,7311.0,Sinuiju,1816,1948.0,Part of,730.0
+753,7312.0,Kumgangsan,1816,1948.0,Part of,730.0
+754,7351.0,Southern Sakhalin I.,1905,1946.0,Colony of,740.0
+755,7352.0,Vladivostok,1860,1917.0,Part of,365.0
+756,7399.0,Takeshima (Dokdo) I.,1905,1954.0,Part of,740.0
+757,7411.0,Bonin Is.,1876,1945.0,Part of,740.0
+758,7412.0,Volcano Is.,1891,1945.0,Part of,740.0
+759,7413.0,Marcus I.,1898,1945.0,Part of,740.0
+760,7414.0,Parece Vela I.,1816,1931.0,Discovered,
+761,7415.0,Tsushima Is.,1861,2020.0,Part of,740.0
+762,7500.0,Andaman and Nicobar Is.,1872,1942.0,Part of,750.0
+763,7501.0,Andaman Is.,1872,2020.0,Part of,7500.0
+764,7502.0,Nicobar Is.,1872,2020.0,Part of,7500.0
+765,7503.0,Coromandel Coast Posts,1825,1947.0,Part of,750.0
+766,7504.0,Tranquebar and Serampore,1845,1947.0,Part of,750.0
+767,7505.0,Hyderabad,1816,1948.0,Vassal of,750.0
+768,7507.0,Kashmir,1846,1947.0,Vassal of,750.0
+769,7511.0,Bikaner,1816,1947.0,Vassal of,750.0
+770,7512.0,Jaipur,1818,1947.0,Vassal of,750.0
+771,7513.0,Udaipur,1818,1949.0,Vassal of,750.0
+772,7514.0,Kishangarh,1818,1948.0,Vassal of,750.0
+773,7515.0,Lawa,1867,1947.0,Vassal of,750.0
+774,7516.0,Jodhpur,1818,1947.0,Vassal of,750.0
+775,7517.0,Jaisalmer,1818,1947.0,Vassal of,750.0
+776,7518.0,Dholpur,1816,1949.0,Part of,750.0
+777,7519.0,Karauli,1817,1949.0,Vassal of,750.0
+778,7521.0,Kotah,1817,1947.0,Vassal of,750.0
+779,7522.0,Banswara,1818,1949.0,Vassal of,750.0
+780,7523.0,Dungarpur,1818,1947.0,Vassal of,750.0
+781,7524.0,Dartabgarh,1818,1947.0,Part of,750.0
+782,7525.0,Kushalgar,1818,1947.0,Part of,750.0
+783,7526.0,Bundi,1818,1949.0,Vassal of,750.0
+784,7527.0,Tonk,1817,1947.0,Vassal of,750.0
+785,7528.0,Pratapgarh,1818,1947.0,Vassal of,750.0
+786,7529.0,Shahpura,1818,1949.0,Vassal of,750.0
+787,7531.0,Kathiawar,1819,1948.0,Vassal of,750.0
+788,7532.0,Holkar (Indore),1818,1950.0,Vassal of,750.0
+789,7533.0,Bhopal,1818,1947.0,Vassal of,750.0
+790,7534.0,Dhar,1819,1947.0,Vassal of,750.0
+791,7535.0,Dewas,1818,1947.0,Vassal of,750.0
+792,7536.0,Taraon,1896,1931.0,Part of,7548.0
+793,7537.0,Samptar (Datia),1816,1947.0,Vassal of,750.0
+794,7538.0,Rewa,1816,1947.0,Vassal of,750.0
+795,7539.0,Sawantwadi,1816,1948.0,Vassal of,750.0
+796,7541.0,Bilaspur,1816,1948.0,Vassal of,750.0
+797,7542.0,Loharu,1816,1947.0,Vassal of,750.0
+798,7543.0,Malerkotla,1816,1948.0,Vassal of,750.0
+799,7544.0,Sirmur,1816,1948.0,Vassal of,750.0
+800,7545.0,Suket,1816,1948.0,Vassal of,750.0
+801,7546.0,Garwahl,1816,1949.0,Vassal of,750.0
+802,7548.0,Bagelkhand,1871,1933.0,Vassal of,750.0
+803,7549.0,Bundelkhand,1816,1948.0,Vassal of,750.0
+804,7551.0,Malwa,1818,1947.0,Part of,750.0
+805,7552.0,Khairpur,1838,1947.0,Vassal of,750.0
+806,7553.0,Idar,1816,1947.0,Vassal of,750.0
+807,7554.0,Saugor,1818,1950.0,Part of,750.0
+808,7555.0,Damoh,1818,1947.0,Part of,750.0
+809,7556.0,Berar,1853,1947.0,Part of,750.0
+810,7557.0,Khandesh,1818,1947.0,Part of,750.0
+811,7558.0,Nasik,1818,1947.0,Part of,750.0
+812,7559.0,Ahmadnagar,1817,1947.0,Part of,750.0
+813,7561.0,Poona,1818,1947.0,Part of,750.0
+814,7562.0,Sholapur,1818,1947.0,Part of,750.0
+815,7563.0,Ratnagiri,1818,1947.0,Part of,750.0
+816,7564.0,Bijapur,1818,1947.0,Part of,7578.0
+817,7566.0,Travancore,1816,1949.0,Part of,750.0
+818,7570.0,Junagadh,1816,1948.0,Vassal of,750.0
+819,7571.0,Sirohi,1823,1949.0,Part of,750.0
+820,7572.0,Assam,1826,1947.0,Part of,750.0
+821,7573.0,Kapurthala,1816,1947.0,Vassal of,750.0
+822,7574.0,Chota Nagpur,1816,1947.0,Vassal of,750.0
+823,7575.0,Kodagu (Coorg),1834,1950.0,Part of,750.0
+824,7576.0,Karnal,1816,1947.0,Part of,750.0
+825,7577.0,Sambalpur,1817,1947.0,Vassal of,750.0
+826,7578.0,Satara,1818,1947.0,Part of,750.0
+827,7579.0,Gwalior (Sindhia),1816,1948.0,Vassal of,750.0
+828,7581.0,Jhansi,1858,2020.0,Part of,7579.0
+829,7582.0,Rampur,1816,1947.0,Vassal of,750.0
+830,7583.0,Jubbulpore,1861,2020.0,Part of,7556.0
+831,7584.0,Balaghat,1854,2020.0,Part of,750.0
+832,7585.0,Nagpur,1854,1947.0,Part of,750.0
+833,7586.0,Oudh,1856,1947.0,Part of,750.0
+834,7587.0,Manipur,1824,1947.0,Vassal of,750.0
+835,7588.0,Baluchistan (Kalat),1839,1947.0,Vassal of,750.0
+836,7691.0,Lahore (Sikh Empire),1849,1947.0,Part of,750.0
+837,7692.0,Peshawar,1834,1947.0,Part of,750.0
+838,7693.0,Sindh,1843,1947.0,Part of,750.0
+839,7694.0,Bahawalpur,1833,1947.0,Vassal of,750.0
+840,7701.0,Swat,1849,1947.0,Vassal of,750.0
+841,7702.0,Hunza,1891,1947.0,Vassal of,750.0
+842,7703.0,Nagar,1891,1947.0,Vassal of,750.0
+843,7704.0,Chitral,1895,1947.0,Vassal of,750.0
+844,7705.0,Dir,1895,1948.0,Vassal of,750.0
+845,7706.0,Amb,1845,1948.0,Vassal of,750.0
+846,7707.0,Gwadar,1816,1958.0,Possession of,698.0
+847,7708.0,Azad Kashmir,1816,1947.0,Part of,7507.0
+848,7709.0,Gilgit Baltistan (Northern Areas),1846,1947.0,Part of,7507.0
+849,7746.0,Bawlake,1816,2020.0,Part of,7798.0
+850,7747.0,Kyebogyi,1816,2020.0,Part of,7798.0
+851,7748.0,Naungpale,1816,2020.0,Part of,7798.0
+852,7749.0,Nammekon,1816,2020.0,Part of,7798.0
+853,7751.0,Hsipaw,1887,1948.0,Protectorate of,200.0
+854,7752.0,Tawngpeng,1887,1948.0,Protectorate of,200.0
+855,7753.0,North Hsenwi,1888,1948.0,Protectorate of,200.0
+856,7754.0,South Hsenwi,1888,1948.0,Protectorate of,200.0
+857,7755.0,Mang Lon,1888,1959.0,Part of,775.0
+858,7756.0,Hsamonghkam,1887,1948.0,Protectorate of,200.0
+859,7757.0,Kyawkku,1887,1922.0,Protectorate of,200.0
+860,7758.0,Kyong,1886,1948.0,Protectorate of,200.0
+861,7759.0,Loi Ai,1816,1930.0,Part of,7771.0
+862,7760.0,Loi Long,1887,1948.0,Protectorate of,200.0
+863,7761.0,Loi Maw,1887,1948.0,Protectorate of,200.0
+864,7762.0,Maw,1887,1934.0,Protectorate of,200.0
+865,7763.0,Mawnang,1887,1948.0,Protectorate of,200.0
+866,7764.0,Mawson,1887,1948.0,Protectorate of,200.0
+867,7765.0,Namhkam,1816,1960.0,Part of,710.0
+868,7766.0,Namtok,1887,1931.0,Protectorate of,200.0
+869,7767.0,Pangmi,1887,1948.0,Protectorate of,200.0
+870,7768.0,Pangtara,1887,1948.0,Protectorate of,200.0
+871,7769.0,Pwehla,1887,1948.0,Protectorate of,200.0
+872,7770.0,Yengan,1887,1948.0,Protectorate of,200.0
+873,7771.0,Yawnghwe,1887,1948.0,Protectorate of,200.0
+874,7772.0,Lawksawk,1886,1948.0,Protectorate of,200.0
+875,7773.0,Wanyin,1887,1948.0,Protectorate of,200.0
+876,7774.0,Samka,1887,1948.0,Protectorate of,200.0
+877,7775.0,Hsahtung,1887,1948.0,Protectorate of,200.0
+878,7776.0,Hopong,1887,1948.0,Protectorate of,200.0
+879,7777.0,Namhkok,1887,1948.0,Protectorate of,200.0
+880,7778.0,Mong Pai,1887,1948.0,Protectorate of,200.0
+881,7779.0,Nawng Wawn,1887,1948.0,Protectorate of,200.0
+882,7780.0,Sa-koi,1887,1948.0,Protectorate of,200.0
+883,7781.0,Lai Hka,1888,1948.0,Protectorate of,200.0
+884,7782.0,Mong Kung,1887,1948.0,Protectorate of,200.0
+885,7783.0,Mong Nai,1887,1948.0,Protectorate of,200.0
+886,7784.0,Mawkmai,1887,1948.0,Protectorate of,200.0
+887,7785.0,Mong Pawn,1887,1948.0,Protectorate of,200.0
+888,7786.0,Mong Sit,1887,1948.0,Protectorate of,200.0
+889,7787.0,Mong Pan,1887,1948.0,Protectorate of,200.0
+890,7789.0,Mong Nawng,1887,1948.0,Protectorate of,200.0
+891,7790.0,Kehsi Mansam,1887,1948.0,Protectorate of,200.0
+892,7791.0,Keng Lon,1887,1926.0,Protectorate of,200.0
+893,7792.0,Mong Hsu,1887,1948.0,Protectorate of,200.0
+894,7793.0,Keng Tung,1887,1948.0,Protectorate of,200.0
+895,7794.0,Hsawnghsup,1887,1948.0,Protectorate of,200.0
+896,7795.0,Singkaling Hkamti,1887,1948.0,Protectorate of,200.0
+897,7796.0,Mong Mit,1887,1948.0,Protectorate of,200.0
+898,7797.0,Hkamti Long,1887,1948.0,Protectorate of,200.0
+899,7798.0,Western Karenni,1875,1948.0,Protectorate of,200.0
+900,7799.0,Kantarawadi (Eastern Karenni),1885,1948.0,Protectorate of,200.0
+901,7910.0,Tibet,1912,1951.0,Sovereign (unrecognized),
+902,8001.0,Chiang Mai (Lan-na),1816,2020.0,Part of,800.0
+903,8002.0,Pattani,1817,2020.0,Part of,800.0
+904,8121.0,Vientiane,1893,1949.0,Part of,810.0
+905,8122.0,Luang Prabang (Lan Sang),1893,1949.0,Part of,810.0
+906,8123.0,Xiangkhouang,1893,1949.0,Part of,810.0
+907,8151.0,Cochin China,1887,1949.0,Part of,810.0
+908,8152.0,Annam,1887,1949.0,Part of,810.0
+909,8153.0,Tonkin,1887,1949.0,Part of,810.0
+910,8171.0,Paracel Is.,1816,1945.0,Claimed by,710.0
+911,8201.0,Perak,1895,1946.0,Part of,821.0
+912,8202.0,Selangore,1895,1946.0,Part of,821.0
+913,8203.0,Pahang,1895,1946.0,Part of,821.0
+914,8210.0,Negeri Sembilan,1895,1946.0,Part of,821.0
+915,8211.0,Seremban (Songei Ujong),1874,2020.0,Part of,8210.0
+916,8212.0,Rembau,1889,2020.0,Part of,8210.0
+917,8213.0,Seri Menanti,1878,2020.0,Part of,8210.0
+918,8214.0,Ulu Muar,1878,2020.0,Part of,8210.0
+919,8215.0,Jempol,1878,2020.0,Part of,8210.0
+920,8216.0,Johol,1878,2020.0,Part of,8210.0
+921,8217.0,Tampin,1889,2020.0,Part of,8210.0
+922,8222.0,Kedah,1909,1942.0,Protectorate of,200.0
+923,8223.0,Kelantan,1909,1942.0,Protectorate of,200.0
+924,8224.0,Perlis,1909,1942.0,Protectorate of,200.0
+925,8225.0,Trengganu,1909,1942.0,Protectorate of,200.0
+926,8231.0,Labuan I.,1907,1946.0,Part of,827.0
+927,8271.0,Malacca,1826,1946.0,Part of,827.0
+928,8272.0,Penang,1826,1946.0,Part of,827.0
+929,8401.0,Sulu Sultanate,1903,1915.0,Protectorate of,2.0
+930,8402.0,Bohol,1829,2020.0,Part of,840.0
+931,8403.0,Mindanao,1816,1977.0,Part of,840.0
+932,8525.0,Sambas,1818,1949.0,Part of,850.0
+933,8531.0,Atjeh,1903,1949.0,Part of,850.0
+934,8532.0,Deli,1872,1949.0,Part of,850.0
+935,8533.0,Siak,1816,1946.0,Part of,8551.0
+936,8534.0,Minangkabau (Melayu),1837,1949.0,Part of,850.0
+937,8535.0,Kulon,1824,1949.0,Part of,850.0
+938,8536.0,Jambi,1834,1949.0,Part of,850.0
+939,8537.0,Palembang,1825,1949.0,Part of,850.0
+940,8538.0,Kutai,1844,1949.0,Part of,850.0
+941,8539.0,Toraja,1907,1949.0,Part of,850.0
+942,8541.0,Bali,1856,1949.0,Part of,850.0
+943,8542.0,Lombok,1894,1949.0,Part of,850.0
+944,8543.0,Banjermassin,1861,1949.0,Part of,850.0
+945,8544.0,Riau,1844,1949.0,Part of,850.0
+946,8545.0,Tapanuli Selatan (Angkola),1832,1949.0,Part of,850.0
+947,8546.0,Mandailing,1832,1949.0,Part of,850.0
+948,8547.0,Tapanuli,1840,1949.0,Part of,850.0
+949,8548.0,Lampung,1816,1949.0,Part of,850.0
+950,8549.0,Buni,1859,1949.0,Part of,850.0
+951,8551.0,Indrapura,1861,1946.0,Part of,850.0
+952,8552.0,Bone,1905,1949.0,Part of,850.0
+953,8553.0,Gowa,1911,1949.0,Part of,850.0
+954,8554.0,Luwu,1861,1949.0,Part of,850.0
+955,8555.0,Bencoolen,1825,1949.0,Part of,850.0
+956,8560.0,Buleleng,1856,1949.0,Part of,850.0
+957,8561.0,Jembrana,1856,1949.0,Part of,850.0
+958,9001.0,Christmas I.,1889,1942.0,Part of,827.0
+959,9002.0,Cocos (Keeling) Is.,1882,1942.0,Part of,827.0
+960,9003.0,Coral Sea Is.,1901,1969.0,Part of,900.0
+961,9004.0,Norfolk I.,1816,1920.0,Colony of,200.0
+962,9005.0,Heard and McDonald Is.,1853,1947.0,Possession of,200.0
+963,9006.0,Macquarie I.,1901,2020.0,Possession of,900.0
+964,9007.0,Lord Howe I.,1816,1919.0,Possession of,200.0
+965,9008.0,Ashmore and Cartier Is,1878,1931.0,Possession of,200.0
+966,9201.0,Tokelau Is.,1877,1916.0,Protectorate of,200.0
+967,9202.0,Kermadec Is.,1883,2020.0,Possession of,920.0
+968,9203.0,Chatham Is.,1842,2020.0,Possession of,920.0
+969,9204.0,Bounty Is.,1816,1919.0,Discovered,
+970,9205.0,Auckland Is.,1842,2020.0,Possession of,920.0
+971,9206.0,Campbell I.,1816,2020.0,Possession of,920.0
+972,9251.0,Rarotonga,1816,2020.0,Part of,925.0
+973,9252.0,Northern Cook Is.,1901,2020.0,Possession of,925.0
+974,9253.0,Niue I.,1904,1974.0,Colony of,920.0
+975,9301.0,Chesterfield Is.,1878,2020.0,Part of,930.0
+976,9321.0,Wallis and Futuna Is.,1887,1961.0,Protectorate of,220.0
+977,9321.0,Wallis and Futuna Is.,1887,1961.0,Part of,930.0
+978,9322.0,Uvea,1887,2020.0,Part of,9321.0
+979,9323.0,Tua (Singave),1888,2020.0,Part of,9321.0
+980,9324.0,Alo (Futuna),1888,2020.0,Part of,9321.0
+981,9351.0,Vemarana (Espiritu Santo),1906,1980.0,Part of,935.0
+982,9451.0,Banaba I. (Ocean I.),1900,1916.0,Possession of,200.0
+983,9452.0,Christmas Is.,1888,1916.0,Possession of,200.0
+984,9453.0,Fanning I.,1888,1916.0,Possession of,200.0
+985,9454.0,Teraina (Washington I.),1889,1916.0,Possession of,200.0
+986,9462.0,Malden I.,1856,1979.0,Claimed by,2.0
+987,9463.0,Starbuck I.,1856,1979.0,Claimed by,2.0
+988,9464.0,Vostok I.,1856,1979.0,Claimed by,2.0
+989,9465.0,Flint I.,1856,1979.0,Claimed by,2.0
+990,9466.0,Caroline I.,1868,1979.0,Claimed by,200.0
+991,9501.0,Rotuma I.,1881,2020.0,Part of,950.0
+992,9551.0,Vava'u,1833,2020.0,Part of,955.0
+993,9552.0,Tongatapu,1845,2020.0,Part of,955.0
+994,9553.0,Ha'apai,1845,2020.0,Part of,955.0
+995,9601.0,Society Is.,1903,2020.0,Part of,960.0
+996,9602.0,Marquesas Is.,1903,2020.0,Part of,960.0
+997,9603.0,Tuamotu Is.,1903,2020.0,Part of,960.0
+998,9604.0,Gambier Is.,1886,2020.0,Part of,960.0
+999,9605.0,Tubuai Is. (Austral Is.),1903,2020.0,Part of,960.0
+1000,9606.0,Tahiti,1843,2020.0,Part of,9601.0
+1001,9610.0,Clipperton I.,1858,1931.0,Occupied by,220.0
+1002,9610.0,Clipperton I.,1897,1931.0,Occupied by,70.0
+1003,9620.0,Pitcairn Is.,1839,2020.0,Colony of,200.0
+1004,9621.0,Ducie I.,1903,2020.0,Part of,9620.0
+1005,9720.0,Wake I.,1898,1941.0,Colony of,2.0
+1006,9730.0,Midway Is.,1859,2020.0,Dependency of,2.0
+1007,9740.0,Palmyra Is.,1912,1960.0,Part of,4.0
+1008,9750.0,Johnston I.,1858,1934.0,Claimed by,2.0
+1009,9760.0,Kingman Reef,1860,1922.0,Claimed by,2.0
+1010,9771.0,Baker I.,1886,1935.0,Claimed by,200.0
+1011,9772.0,Jarvis I.,1889,1935.0,Claimed by,200.0
+1012,9960.0,Australian Antarctic Territory,1841,1933.0,Claimed by,200.0
+1013,9971.0,Adelie Land,1840,1955.0,Claimed by,220.0
+1014,9972.0,St. Paul and New Amsterdam Is.,1843,1955.0,Possession of,220.0
+1015,9973.0,Kerguelen Is.,1893,1955.0,Possession of,220.0
+1016,9974.0,Crozet Is.,1816,1955.0,Possession of,220.0
+1017,9981.0,Palmer Antarctic Territory,1908,1962.0,Claimed by,1163.0
+1018,9982.0,South Orkney Is.,1833,1962.0,Part of,1163.0
+1019,9983.0,South Shetland Is.,1833,1962.0,Part of,1163.0
+1020,9984.0,South Sandwich Is.,1908,1985.0,Part of,1163.0
+1021,9993.0,Bouvet I.,1816,1927.0,Discovered,
+1022,9994.0,Ross Dependency,1841,1923.0,Discovered,
+1023,9998.0,Concessions in China,1846,1949.0,International,
+1024,,Abyssinia,,,,
+1025,,Anglo-Egyptian Sudan,,,,
+1026,,Antarctica,,,,
+1027,,Arabia,,,,
+1028,,Ascension Island,,,,
+1029,,Austria - Hungary ,,,,
+1030,,Azores,,,,
+1031,,Baker Island,,,,
+1032,,Bechuanaland,,,,
+1033,,Belgian Congo ,,,,
+1034,,Bouvet Island,,,,
+1035,,British Burma,,,,
+1036,,British East Africa,,,,
+1037,,British Guyana,,,,
+1038,,British Honduras,,,,
+1039,,British Malaya,,,,
+1040,,British Somaliland,,,,
+1041,,British Virgin Islands,,,,
+1042,,Cabo Verde,,,,
+1043,,Cameroons,,,,
+1044,,Canary Island,,,,
+1045,,Caroline Islands,,,,
+1046,,Caroline Islands,,,,
+1047,,Cayman Islands,,,,
+1048,,Ceylon,,,,
+1049,,Chagos Islands,,,,
+1050,,China,,,,
+1051,,Chosen (Korea),,,,
+1052,,Christmas Island,,,,
+1053,,Cocos Islands,,,,
+1054,,Colombia,,,,
+1055,,Cook Islands,,,,
+1056,,Cyprus,,,,
+1057,,Dominican Republic,,,,
+1058,,Dominion of Canada,,,,
+1059,,Dutch East Indies,,,,
+1060,,Dutch Guiana,,,,
+1061,,Egypt,,,,
+1062,,Ellice Island,,,,
+1063,,Falkland Islands,,,,
+1064,,Faroe Islands,,,,
+1065,,Formosa (Japan),,,,
+1066,,French equatorial Africa,,,,
+1067,,French Guiana,,,,
+1068,,French Guinea,,,,
+1069,,French Indo China,,,,
+1070,,French Somaliland,,,,
+1071,,French Southern Territories,,,,
+1072,,French Sudan,,,,
+1073,,German East Africa,,,,
+1074,,German New Guinea,,,,
+1075,,German Samoa Island ,,,,
+1076,,German South west Africa,,,,
+1077,,Gilbert Islands,,,,
+1078,,Glorioso Islands,,,,
+1079,,Gold Coast,,,,
+1080,,Guernsey,,,,
+1081,,Heard Island and McDonald Islands,,,,
+1082,,Howland Island,,,,
+1083,,Isle of Man,,,,
+1084,,Jan Mayen,,,,
+1085,,Jarvis Island,,,,
+1086,,Jersey,,,,
+1087,,Juan De Nova Island,,,,
+1088,,Luxembourg,,,,
+1089,,Madagascar,,,,
+1090,,Madeira,,,,
+1091,,Maldives,,,,
+1092,,Marshall Islands,,,,
+1093,,Midway Islands,,,,
+1094,,NAME,,,,
+1095,,Nauru,,,,
+1096,,New Caledonia,,,,
+1097,,New Hebrides Island,,,,
+1098,,Nigeria,,,,
+1099,,Niue,,,,
+1100,,Norfolk Island,,,,
+1101,,Northern Mariana Islands,,,,
+1102,,Nyasaland,,,,
+1103,,Oman,,,,
+1104,,Pelew,,,,
+1105,,Persia,,,,
+1106,,Pitcairn,,,,
+1107,,Portuguese East Africa ,,,,
+1108,,Portuguese Timor,,,,
+1109,,Portuguese West Africa,,,,
+1110,,Réunion,,,,
+1111,,Rhodesia,,,,
+1112,,Rio De Oro,,,,
+1113,,Rumania,,,,
+1114,,Russian Federation,,,,
+1115,,Saint Lucia,,,,
+1116,,Saint Vincent and the Grenadines,,,,
+1117,,Samoa,,,,
+1118,,Siam,,,,
+1119,,Solomon Islands,,,,
+1120,,South Africa ,,,,
+1121,,South Georgia and South Sandwich Islands,,,,
+1122,,Spanish  Morocco,,,,
+1123,,St. Christopher Islands,,,,
+1124,,St. Thomas Island,,,,
+1125,,Svalbard,,,,
+1126,,Sydney Miquelon Island,,,,
+1127,,Territory Of Alaska,,,,
+1128,,Territory of Hawaii,,,,
+1129,,Territory of Papua,,,,
+1130,,Togo,,,,
+1131,,Tokelau,,,,
+1132,,Tonga,,,,
+1133,,Trinidad ,,,,
+1134,,Tripoli,,,,
+1135,,Tuamotu Archipelago,,,,
+1136,,Tunis,,,,
+1137,,Turkey,,,,
+1138,,United States,,,,
+1139,,US Virgin Islands,,,,
+1140,,Wake Island,,,,
+1141,,Wallis and Futuna,,,,
