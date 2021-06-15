@@ -1,0 +1,346 @@
+,start_idx,end_idx,text,label
+0,22,30,coutumes,SHS
+1,22,30,coutumes,SHS
+2,22,30,coutumes,SHS
+3,22,30,coutumes,SHS
+0,45,50,Congo,GPE
+0,105,112,diptère,ZOO-ENTO
+1,105,112,diptère,ZOO-ENTO
+2,105,112,diptère,ZOO-ENTO
+3,105,112,diptère,ZOO-ENTO
+4,105,112,diptère,ZOO-ENTO
+0,11,19,Tamatave,LOC
+0,100,118,Nouvelles-Hébrides,GPE
+1,100,118,Nouvelles-Hébrides,GPE
+2,100,118,Nouvelles-Hébrides,GPE
+0,43,58,peste bubonique,PATH
+1,43,58,peste bubonique,PATH
+2,43,58,peste bubonique,PATH
+0,23,36,Haut-Oubangui,GPE
+0,34,49,peste bubonique,PATH
+0,33,48,fièvre typhoïde,PATH
+0,63,70,Afrique,LOC
+0,12,20,Sphacèle,PATH
+1,12,20,Sphacèle,PATH
+0,146,178,fièvre bilieuse hémoglobinurique,PATH
+1,146,178,fièvre bilieuse hémoglobinurique,PATH
+0,0,23,Éléphantasis du scrotum,PATH
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+2,0,19,Géographie médicale,SHS
+0,22,31,paludisme,PATH
+1,22,31,paludisme,PATH
+0,38,45,variole,PATH
+1,38,45,variole,PATH
+0,49,64,Soudan français,GPE
+0,23,28,Chine,GPE
+0,4,13,sarimbavy,SHS
+1,4,13,sarimbavy,SHS
+0,13,32,Géographie médicale,SHS
+1,13,32,Géographie médicale,SHS
+0,33,44,Cochinchine,GPE
+0,2,15,île d'Anjouan,GPE
+0,35,40,peste,PATH
+1,35,40,peste,PATH
+0,42,69,phosphates alcalino-terreux,CHEM-LABO
+0,58,72,Congo français,GPE
+1,58,72,Congo français,GPE
+0,25,35,moustiques,ZOO-ENTO
+1,25,35,moustiques,ZOO-ENTO
+0,28,35,Sénégal,GPE
+1,28,35,Sénégal,GPE
+0,20,30,La Réunion,GPE
+0,3,10,Léprose,PATH
+0,53,65,ethnographie,SHS
+1,53,65,ethnographie,SHS
+2,53,65,ethnographie,SHS
+0,11,18,vaccine,PATH
+1,11,18,vaccine,PATH
+2,11,18,vaccine,PATH
+3,11,18,vaccine,PATH
+0,4,12,piaïeurs,SHS
+1,4,12,piaïeurs,SHS
+0,26,35,paludisme,PATH
+1,26,35,paludisme,PATH
+2,26,35,paludisme,PATH
+3,26,35,paludisme,PATH
+0,7,18,ptomaphagie,PATH
+1,7,18,ptomaphagie,PATH
+0,52,59,Afrique,GPE
+1,52,59,Afrique,GPE
+0,76,86,Martinique,GPE
+0,37,49,Saint-Pierre,GPE
+0,10,30,polynévrite palustre,PATH
+0,37,48,Cochinchine,GPE
+1,37,48,Cochinchine,GPE
+2,37,48,Cochinchine,GPE
+0,38,48,La Réunion,GPE
+1,38,48,La Réunion,GPE
+0,50,58,béribéri,PATH
+0,71,89,Nouvelle-Calédonie,GPE
+1,71,89,Nouvelle-Calédonie,GPE
+0,38,44,Tonkin,GPE
+0,12,21,diphtérie,PATH
+1,12,21,diphtérie,PATH
+0,39,47,arrhénal,CHEM-LABO
+1,39,47,arrhénal,CHEM-LABO
+0,18,32,Congo français,GPE
+1,18,32,Congo français,GPE
+0,93,111,Nouvelle-Calédonie,GPE
+1,93,111,Nouvelle-Calédonie,GPE
+0,21,32,Cochinchine,GPE
+1,21,32,Cochinchine,GPE
+0,48,56,Annamite,SHS
+0,45,78,établissements français de l'Inde,GPE
+0,64,81,bacille de Hansen,CHEM-LABO
+1,64,81,bacille de Hansen,CHEM-LABO
+0,18,36,Nouvelle-Calédonie,GPE
+1,18,36,Nouvelle-Calédonie,GPE
+0,26,33,Sénégal,GPE
+1,26,33,Sénégal,GPE
+2,26,33,Sénégal,GPE
+0,16,23,choléra,PATH
+1,16,23,choléra,PATH
+0,28,32,Labé,GPE
+0,13,18,lèpre,PATH
+1,13,18,lèpre,PATH
+0,15,24,filariose,PATH
+0,0,20,Kérato-conjonctivite,PATH
+0,20,30,Martinique,GPE
+1,20,30,Martinique,GPE
+0,90,119,Afrique occidentale française,GPE
+1,90,119,Afrique occidentale française,GPE
+0,60,78,Nouvelle-Calédonie,GPE
+0,23,36,Luang-Prabang,GPE
+1,23,36,Luang-Prabang,GPE
+2,23,36,Luang-Prabang,GPE
+0,80,90,Guadeloupe,GPE
+1,80,90,Guadeloupe,GPE
+0,32,42,Fou-Tchéou,GPE
+1,32,42,Fou-Tchéou,GPE
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+0,70,77,Karikal,GPE
+0,28,35,Tampico,GPE
+1,28,35,Tampico,GPE
+0,34,47,Côte d'Ivoire,GPE
+0,41,55,Inde française,GPE
+1,41,55,Inde française,GPE
+0,26,33,variole,PATH
+1,26,33,variole,PATH
+0,18,28,alcoolisme,PATH
+1,18,28,alcoolisme,PATH
+0,12,23,tuberculose,PATH
+1,12,23,tuberculose,PATH
+0,11,17,Aïnhum,GPE
+0,30,38,Cultures,SHS
+1,30,38,Cultures,SHS
+0,57,75,Stegomyia Lamberti,ZOO-ENTO
+1,57,75,Stegomyia Lamberti,ZOO-ENTO
+0,62,94,fièvre bilieuse hémoglobinurique,PATH
+0,10,16,taenia,PATH
+1,10,16,taenia,PATH
+2,10,16,taenia,PATH
+0,171,211,École de médecine tropicale de Liverpool,ORG
+1,171,211,École de médecine tropicale de Liverpool,ORG
+2,171,211,École de médecine tropicale de Liverpool,ORG
+3,171,211,École de médecine tropicale de Liverpool,ORG
+0,18,32,Rio de Janeiro,LOC
+1,18,32,Rio de Janeiro,LOC
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+0,71,77,Kampot,GPE
+1,71,77,Kampot,GPE
+2,71,77,Kampot,GPE
+3,71,77,Kampot,GPE
+0,44,50,émyrne,LOC
+1,44,50,émyrne,LOC
+2,44,50,émyrne,LOC
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+0,33,48,delta Tonkinois,LOC
+1,33,48,delta Tonkinois,LOC
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+0,54,65,Cochinchine,GPE
+0,65,71,Saïgon,GPE
+0,78,87,indigènes,SHS
+1,78,87,indigènes,SHS
+0,3,7,rage,PATH
+1,3,7,rage,PATH
+0,31,39,Antilles,LOC
+1,31,39,Antilles,LOC
+0,0,18,Maladie du sommeil,PATH
+1,0,18,Maladie du sommeil,PATH
+2,0,18,Maladie du sommeil,PATH
+3,0,18,Maladie du sommeil,PATH
+0,23,32,annamites,SHS
+1,23,32,annamites,SHS
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+0,14,24,moustiques,ZOO-ENTO
+1,14,24,moustiques,ZOO-ENTO
+0,3,12,paludisme,PATH
+1,3,12,paludisme,PATH
+2,3,12,paludisme,PATH
+0,22,28,Tonkin,GPE
+0,13,21,béribéri,PATH
+1,13,21,béribéri,PATH
+0,37,42,peste,PATH
+1,37,42,peste,PATH
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+0,66,73,Sénégal,GPE
+0,94,112,maladie du sommeil,PATH
+1,94,112,maladie du sommeil,PATH
+2,94,112,maladie du sommeil,PATH
+0,23,39,Quang-Tchéou-Wan,GPE
+1,23,39,Quang-Tchéou-Wan,GPE
+0,64,93,Afrique occidentale française,GPE
+1,64,93,Afrique occidentale française,GPE
+0,35,67,fièvre bilieuse hémoglobinurique,PATH
+0,60,70,moustiques,ZOO-ENTO
+0,29,35,fièvre,PATH
+1,29,35,fièvre,PATH
+0,95,103,coutumes,SHS
+1,95,103,coutumes,SHS
+2,95,103,coutumes,SHS
+3,95,103,coutumes,SHS
+4,95,103,coutumes,SHS
+0,43,51,Tchentou,GPE
+0,24,37,superstitions,SHS
+1,24,37,superstitions,SHS
+2,24,37,superstitions,SHS
+0,3,9,cancer,PATH
+0,27,32,lèpre,PATH
+0,70,88,hôpital de Pak-Hoï,ORG
+1,70,88,hôpital de Pak-Hoï,ORG
+0,55,73,Nouvelle-Calédonie,GPE
+0,13,23,Indo-Chine,GPE
+1,13,23,Indo-Chine,GPE
+0,3,8,peste,PATH
+1,3,8,peste,PATH
+0,11,25,azote nitrique,CHEM-LABO
+1,11,25,azote nitrique,CHEM-LABO
+0,54,61,tétanos,PATH
+1,54,61,tétanos,PATH
+0,63,74,Terre-Neuve,GPE
+0,27,34,Sénégal,GPE
+0,33,41,syphilis,PATH
+0,47,57,Madagascar,GPE
+0,106,113,Lorient,GPE
+0,128,134,Europe,LOC
+1,128,134,Europe,LOC
+2,128,134,Europe,LOC
+0,20,38,myxoedème spontané,PATH
+0,15,22,Manille,GPE
+0,88,96,béribéri,PATH
+0,88,96,béribéri,PATH
+0,25,54,solution de chlorure de chaux,CHEM-LABO
+0,40,47,ulcères,PATH
+0,51,61,États-Unis,GPE
+0,42,55,Poulo-Condore,GPE
+1,42,55,Poulo-Condore,GPE
+0,150,166,ldéhyde formique,CHEM-LABO
+1,150,166,ldéhyde formique,CHEM-LABO
+0,0,34,Clinique chirurgicale de Rochefort,ORG
+0,37,56,Indes néerlandaises,GPE
+0,55,85,Institut Pasteur de Weltvreden,ORG
+1,55,85,Institut Pasteur de Weltvreden,ORG
+2,55,85,Institut Pasteur de Weltvreden,ORG
+0,13,22,paludisme,PATH
+0,27,39,Saint-Brieuc,GPE
+0,102,107,Crète,GPE
+0,39,50,Terre-Neuve,GPE
+0,11,17,Smyrne,GPE
+1,11,17,Smyrne,GPE
+0,70,81,mer du Nord,LOC
+1,70,81,mer du Nord,LOC
+0,51,55,race,SHS
+1,51,55,race,SHS
+0,50,79,hôpitaux de l'Afrique du Sud.,ORG
+1,50,79,hôpitaux de l'Afrique du Sud.,ORG
+2,50,79,hôpitaux de l'Afrique du Sud.,ORG
+0,4,16,trypanosomes,ZOO-ENTO
+1,4,16,trypanosomes,ZOO-ENTO
+0,7,19,ethnographie,SHS
+1,7,19,ethnographie,SHS
+0,44,61,fièvre climatique,PATH
+0,41,53,école navale,ORG
+0,54,77,hémoglobinurie du boeuf,PATH
+1,54,77,hémoglobinurie du boeuf,PATH
+2,54,77,hémoglobinurie du boeuf,PATH
+0,62,67,Pékin,GPE
+0,74,79,Chine,GPE
+0,18,28,Madagascar,GPE
+0,10,46,paralysie spinale syphilitique d'Erb,PATH
+0,18,37,géographie médicale,SHS
+0,45,54,paludisme,PATH
+0,70,90,hôpital de Shang-Haï,ORG
+0,24,31,malaria,PATH
+0,27,36,mer rouge,LOC
+0,82,85,Tho,SHS
+1,82,85,Tho,SHS
+2,82,85,Tho,SHS
+3,82,85,Tho,SHS
+0,111,121,alcoolisme,PATH
+0,59,71,école navale,ORG
+0,54,58,Asie,GPE
+1,54,58,Asie,GPE
+0,3,10,choléra,PATH
+0,0,26,Méthylarsinates de mercure,CHEM-LABO
+0,100,134,ligue des médecins et des familles,ORG
+0,0,25,Méthylarsinate de bismuth,CHEM-LABO
+0,23,30,anakhré,PATH
+1,23,30,anakhré,PATH
+0,41,52,tuberculose,PATH
+0,20,32,île de Groix,GPE
+0,66,79,abcès du foie,PATH
+1,66,79,abcès du foie,PATH
+0,19,34,méthylarsinates,CHEM-LABO
+0,79,91,Méditerranée,LOC
+0,20,45,hôpital russe du Munychie,ORG
+1,20,45,hôpital russe du Munychie,ORG
+0,36,47,tuberculose,PATH
+0,4,29,navires-hôpitaux japonais,ORG
+0,13,27,Yang-Tsé-Kiang,LOC
+0,58,69,Terre-Neuve,GPE
+0,47,58,appendicite,PATH
+1,47,58,appendicite,PATH
+2,47,58,appendicite,PATH
+3,47,58,appendicite,PATH
+0,203,222,école d'application,ORG
+0,65,77,île de Céram,GPE
+0,0,27,Hôpital maritime de Lorient,ORG
+0,48,56,Lisbonne,GPE
+1,48,56,Lisbonne,GPE
+0,108,119,Terre-Neuve,GPE
+1,108,119,Terre-Neuve,GPE
+0,29,35,Tumeur,PATH
+1,29,35,Tumeur,PATH
+0,50,89,congrès international de la tuberculose,ORG
+0,31,42,tuberculose,PATH
+0,34,40,Toulon,GPE
+0,56,65,Allemagne,GPE
+1,56,65,Allemagne,GPE
+0,37,49,Océan Indien,LOC
+0,14,21,charbon,PATH
+0,44,63,Congrès de Lisbonne,ORG
+0,19,36,abcès de fixation,PATH
+1,19,36,abcès de fixation,PATH
+0,0,22,Chancres syphilitiques,PATH
+0,28,33,Japon,GPE
+1,28,33,Japon,GPE
+2,28,33,Japon,GPE
+3,28,33,Japon,GPE
+0,17,47,cirrhose atrophique paludéenne,PATH
+0,0,19,Géographie médicale,SHS
+1,0,19,Géographie médicale,SHS
+0,34,45,croix-rouge,ORG
+0,0,13,Abcès du foie,PATH
+0,38,43,Annam,GPE
+1,38,43,Annam,GPE
+0,31,44,Sidi-Abdallah,GPE
+0,23,33,dysenterie,PATH
+0,79,104,hôpital maritime de Brest,ORG
+0,40,52,Océan Indien,GPE
