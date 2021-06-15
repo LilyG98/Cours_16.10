@@ -20,7 +20,7 @@ def Medica_to_dfMedica (tsv):
     #1. Entrer un des fichiers envoyés par l'équipe de MEDICA en format tsv 
     
     with open (tsv) as BSPE_Medica:
-    df_Medica = pd.read_csv(BSPE_Medica,sep='\t')
+	df_Medica = pd.read_csv(BSPE_Medica,sep='\t')
     
     
     #2. Retirer la colonne "Unnamed:O" qui ne sert à rien
