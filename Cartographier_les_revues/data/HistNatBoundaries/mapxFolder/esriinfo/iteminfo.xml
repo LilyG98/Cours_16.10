@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>Historical National Boundaries-Copy_CI</name>
+<guid>72E877BA-1759-45ED-B31E-AD17D9EDAA3C</guid>
+<version>1.0</version>
+<created></created>
+<modified></modified>
+<catalogpath></catalogpath>
+<snippet>Historical national boundaries for key years in history, including 1800, 1914, 1918, 1939, 1945, 1970, 1990, and 2000.</snippet>
+<description>&lt;span&gt;&lt;p style=&apos;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&apos;&gt;&lt;span style=&apos;color: rgb(0, 0, 0); font-family: Arial; font-size: 14.6667px; white-space: pre-wrap; line-height: 1.75667;&apos;&gt;Historical National Boundaries displays global national boundaries for the following dates in history: 1800, 1914, 1918, 1939, 1945, 1970, 1990, 2000. &lt;/span&gt;&lt;span style=&apos;color: rgb(0, 0, 0); font-family: Arial; font-size: 14.6667px; white-space: pre-wrap; line-height: 1.75667;&apos;&gt;Boundary changes associated with World War I (1914 - 1918) and World War II (1939 - 1945) can be viewed by turning off all other layers and toggling between the two. &lt;/span&gt;&lt;/p&gt;&lt;p style=&apos;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&apos;&gt;&lt;span style=&apos;color: rgb(0, 0, 0); font-family: Arial; font-size: 14.6667px; white-space: pre-wrap; line-height: 1.75667;&apos;&gt;&lt;span&gt;&lt;span style=&apos;font-size: 14.6667px; vertical-align: baseline;&apos;&gt;Data for each layer comes from a variety of sources, including historical atlases and the Library of Congress website - &lt;/span&gt;&lt;a href=&apos;https://www.loc.gov/maps/&apos; rel=&apos;nofollow ugc&apos; style=&apos;text-decoration:none;&apos;&gt;&lt;span style=&apos;font-size: 14.6667px; color: rgb(17, 85, 204); text-decoration: underline; vertical-align: baseline;&apos;&gt;https://www.loc.gov/maps/&lt;/span&gt;&lt;/a&gt;&lt;span style=&apos;font-size: 14.6667px; vertical-align: baseline;&apos;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;span&gt;&lt;p&gt;&lt;/p&gt;&lt;/span&gt;</description>
+<summary>Historical national boundaries for key years in history, including 1800, 1914, 1918, 1939, 1945, 1970, 1990, and 2000.</summary>
+<title>Historical National Boundaries-Copy_CI</title>
+<tags>Countries,National Boundaries,2000,1990,1970,1945,1939,1918,1914,1800,historical,education,Historical</tags>
+<type>Map Package</type>
+<typekeywords>
+<typekeyword>Map Package</typekeyword>
+<typekeyword>Map</typekeyword>
+<typekeyword>2D</typekeyword>
+<typekeyword>ArcGIS Pro</typekeyword>
+<typekeyword>mpkx</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<extent>
+<xmin>-179.999988541187</xmin>
+<ymin>-88.9999999216112</ymin>
+<xmax>179.999988541187</xmax>
+<ymax>83.6236001622917</ymax>
+</extent>
+<spatialreference>WGS_1984_Web_Mercator_Auxiliary_Sphere</spatialreference>
+<minScale>1.023599842864589e-306</minScale>
+<maxScale>6.2305565144253171e-307</maxScale>
+<datalastModifiedTime></datalastModifiedTime>
+<accessinformation>University of Minnesota</accessinformation>
+<licenseinfo>&lt;span&gt;&lt;span style=&apos;font-size: 14.6667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap;&apos;&gt;Data may be freely downloaded for research, study, or teaching, but must be cited appropriately. Re-release of the data, or incorporation of the data into a commercial product, is allowed only with explicit permission. Contact U-Spatial at &lt;/span&gt;&lt;a href=&apos;mailto:uspatial@umn.edu&apos; rel=&apos;nofollow ugc&apos; style=&apos;text-decoration:none;&apos;&gt;&lt;span style=&apos;font-size: 14.6667px; font-family: Arial; color: rgb(17, 85, 204); text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&apos;&gt;uspatial@umn.edu&lt;/span&gt;&lt;/a&gt;&lt;span style=&apos;font-size: 14.6667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap;&apos;&gt; or visit our website at &lt;/span&gt;&lt;a href=&apos;http://www.uspatial.umn.edu&apos; rel=&apos;nofollow ugc&apos; style=&apos;text-decoration:none;&apos;&gt;&lt;span style=&apos;font-size: 14.6667px; font-family: Arial; color: rgb(17, 85, 204); text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&apos;&gt;www.uspatial.umn.edu&lt;/span&gt;&lt;/a&gt;&lt;span style=&apos;font-size: 14.6667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap;&apos;&gt; for more information.&lt;/span&gt;&lt;/span&gt;</licenseinfo>
+</ESRI_ItemInformation>

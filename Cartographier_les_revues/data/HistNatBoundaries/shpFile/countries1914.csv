@@ -1,0 +1,126 @@
+"AREA,N,12,3","NAME,C,40","ABBREVNAME,C,12","FIPS_CODE,C,2","WB_CNTRY,C,3"
+"1041,095",Luxembourg,Luxembourg,LU,LUX
+"16004,784",Switzerland,Switzerland,SZ,CHE
+"3544,955",Cyprus,Cyprus,CY,CYP
+"14789,163",Bhutan,Bhutan,BT,BTN
+"3901,375",Qatar,Qatar,QA,QAT
+"39606,298",United Arab Emirates,Untd Arab Em,TC,ARE
+"38775,595",Cuba,Cuba,CU,CUB
+"3629624,694",United States,US,US,USA
+"9916,381",Haiti,Haiti,HA,HTI
+"17512,295",Dominican Republic,Dominican Rp,DR,DOM
+"89642,056",Philippines,Philippines,RP,PHL
+"3071,653",Puerto Rico,Puerto Rico,RQ,PRI
+"3489,042",Jamaica,Jamaica,JM,JAM
+"47031,179",Nicaragua,Nicaragua,NU,NIC
+"19507,865",Costa Rica,Costa Rica,CS,CRI
+"26678,748",Sierra Leone,Sierra Leone,SL,SLE
+"23921,315",Ceylon,Ceylon,CE,LKA
+"28309,799",Panama,Panama,PM,PAN
+"81005,812",Guyana,Guyana,GY,GUY
+"35151,597",Liberia,Liberia,LI,LBR
+"905921,047",Belgian Congo,Belgian Cong,CG,
+"476839,666",Angola,Angola,AO,AGO
+"42840,313",Malawi,Malawi,MI,MWI
+"421160,764",Bolivia,Bolivia,BL,BOL
+"301572,606",Mozambique,Mozambique,MZ,MOZ
+"223560,499",Madagascar,Madagascar,MA,MDG
+"309842,694",German South-West Africa,GerSW Africa,WA,NAM
+"258250,6",Chile,Chile,CI,CHL
+"227568,928",Botswana,Botswana,BC,BWA
+"155574,48",Paraguay,Paraguay,PA,PRY
+"473525,075",South Africa,South Africa,SF,ZAF
+"6634,636",Swaziland,Swaziland,WZ,SWZ
+"11755,971",Lesotho,Lesotho,LT,LSO
+"96140,512",New Zealand,New Zealand,NZ,NZL
+"1071583,975",Argentina,Argentina,AR,ARG
+"38755,34",Iceland,Iceland,IC,ISL
+"84610,377",United Kingdom,UK,UK,GBR
+"26184,16",Ireland,Ireland,EI,IRL
+"12092,025",Belgium,Belgium,BE,BEL
+"187441,29",Spain,Spain,SP,ESP
+"27907,106",Georgia,Georgia,GG,
+"5403,795",Montenegro,Montenegro,MW,
+"10772,191",Albania,Albania,AL,ALB
+"35946,935",Portugal,Portugal,PO,PRT
+"33930,992",Azerbaijan,Azerbaijan,AJ,
+"11831,592",Armenia,Armenia,AM,
+"623446,62",Persia,Persia,,IRN
+"249502,839",Afghanistan,Afghanistan,AF,AFG
+"59940,027",Tunisia,Tunisia,TS,TUN
+"742518,542",Mexico,Mexico,MX,MEX
+"6228,873",Kuwait,Kuwait,KU,KWT
+"195367,372",Siam,Siam,TH,THA
+"8543,292",Belize,Belize,BH,BLZ
+"41860,364",Guatemala,Guatemala,GT,GTM
+"43709,662",Honduras,Honduras,HO,HND
+"8064,151",El Salvador,El Salvador,ES,SLV
+"445382,423",Colombia,Colombia,CO,COL
+"124768,974",Malaya,Malaya,MY,MYS
+"57722,157",Suriname,Suriname,NS,SUR
+"31921,157",French Guiana,Fr Guiana,FG,GUF
+"9509,559",Equatorial Guinea,Eq Guinea,EK,GNQ
+"96025,475",Ecuador,Ecuador,EC,ECU
+"503049,466",Peru,Peru,PE,PER
+"3251214,289",Brazil,Brazil,BR,BRA
+"163275,112",Papua New Guinea,Papua N Guin,PP,PNG
+"2958531,561",Australia,Australia,AS,AUS
+"67749,595",Uruguay,Uruguay,UY,URY
+"12512,568",Denmark,Denmark,DA,DNK
+"12734,893",Netherlands,Netherlands,NL,NLD
+"56912,267",Nepal,Nepal,NP,NPL
+"49615,185",Eritrea,Eritrea,ER,
+"438523,53",Abyssinia,Abyssinia,,
+"3866,238","Gambia, The","Gambia, The",GA,GMB
+"8304,2",Djibouti,Djibouti,DJ,DJI
+"10898,1",Portuguese Guinea,Port Guinea,PU,GNB
+"358883,235",Venezuela,Venezuela,VE,VEN
+"1875,289",Trinidad,Trinidad,TD,TTO
+"2599,641",Brunei,Brunei,BX,BRN
+"655357,689",Netherlands Indies,Neth Indies,ID,IDN
+"806567,867",Greenland,Greenland,GL,
+"3702824,291",Canada,Canada,CA,CAN
+"134943,932",Norway,Norway,NO,NOR
+"128771,466",Finland,Finland,FI,FIN
+"167420,425",Sweden,Sweden,SW,SWE
+"4718827,099",Antarctica,Antarctica,AY,
+"9,363",Greece,Greece,GR,GRC
+0,Bulgaria,Bulgaria,,
+0,Serbia,Serbia,,
+"31,367",Italy,Italy,IT,ITA
+"22,731",Romania,Romania,,
+0,Austro-Hungarian Empire,Austria Hung,,
+0,Turkish Empire,TurkishEmpir,,
+"42,943",Pakistan,Pakistan,PK,PAK
+0,Indian Empire,India,,
+0,French Indo-China,Fr IndoChina,,
+0,Manchu Empire,ManchuEmpire,,
+"226,072",Algeria,Algeria,,
+"215,77",Anglo-Egyption Sudan,Sudan,SU,SDN
+"92,093",Egypt,Egypt,EG,EGY
+"125,553",Libya,Libya,LY,LBY
+"35,558",Morocco,Morocco,MO,MAR
+"3,634",Spanish Morocco,Sp Morocco,MO,MAR
+0,Spanish Sahara,Sp Sahara,,
+0,Rio De Oro,Rio De Oro,,
+"15,932",Gold Coast,Gold Coast,,
+"8,241",Togoland,Togoland,TO,TGO
+"69,939",Nigeria,Nigeria,NI,NGA
+"34,377",French Equatorial Africa,Fr Eq Africa,CF,COG
+"537,295",French West Africa,Fr W Africa,GV,GIN
+"67,252",Kamerun,Kamerun,,CMR
+"81,456",German E. Africa (Tanganyika),Tanganyika,,
+"53,528",British East Africa,E Africa,,
+"22,922",Uganda,Uganda,UG,UGA
+0,British Somaliland,Br Somalilan,,
+0,Italian Somaliland,It Somalilan,,
+"97,04",Rhodesia,Rhodesia,,
+"62,213",Japan,Japan,,
+"62,382",France,France,FR,FRA
+"68,837",German Empire,Germany,,
+"169,032",Arabia (Nejd),Arabia,,
+"17,845",Arabia (Nejd),Arabia,,
+"20,717",Arabia (Nejd),Arabia,,
+0,Mongolia,Mongolia,,
+"3452,872",Russia,Russia,KG,
+0,Sakhalan,Sakhalan,,

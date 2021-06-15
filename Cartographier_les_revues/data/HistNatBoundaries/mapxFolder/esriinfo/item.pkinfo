@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?>
+<pkinfo Culture='en-US'>
+<ID>72E877BA-1759-45ED-B31E-AD17D9EDAA3C</ID>
+<name>Historical National Boundaries-Copy_CI</name>
+<version>12.8</version>
+<size>-1</size>
+<created></created>
+<type>Map Package</type>
+<servable>false</servable>
+<packagelocation></packagelocation>
+<pkinfolocation></pkinfolocation>
+<documenttypes>
+<documenttype>msd</documenttype>
+</documenttypes>
+</pkinfo>
