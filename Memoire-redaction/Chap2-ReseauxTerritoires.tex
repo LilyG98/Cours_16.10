@@ -1,0 +1,53 @@
+\chapter{Réseaux et territoires : une approche par les Humanités numériques}
+
+\subsection{Constituer nos bases de données }
+
+L'accès à nos trois revues sur le site Medica de la Bibliothèque interuniversitaire de médecine a grandement facilité notre tâche de structuration des données des revues toute en la compliquant. En effet, le recours aux regex n'a pas été toujours probant étant donné les différentes indications données par les équipes de la BIUS aux entreprises tierces qui se sont occupées de la numérisation de leurs revues. Nous n'avons pas entièrement terminé de les retraiter car il faudrait encore passer en revue l'intégralité des 50 000 articles qui composent les trois revues sur les quarante années étudiées. Nous avons toutefois pour ce rendu souhaité mettre en avant les quelques avancées que nous avons pu réaliser en outre des nombreuses lectures que nous avons faites et qui ne transparaissent malheureusement pas dans ce mémoire.
+
+
+\section{Cartographier une revue : rendre compte des logiques spatiales de la science}
+
+L'ensemble des documents et scripts de cette partie se trouvent dans notre repository : https://github.com/LilyG98/Memoire-M1 
+
+
+La géographie a joué un rôle primordial pour la définition des territoires relevant du pouvoir métropolitain tant d’un point de vue ethnologique que pathologique. Via la géographie médicale, le développement de médecines dites « tropicales », « coloniales », « navales », « exotiques », les a fait dialoguer autour d’un même objet d’étude relevant de l’altérité. La géographie médicale alimente alors une « géographie imaginaire » 5 . Pourtant, le développement de nouveaux paradigmes scientifiques, tels que la théorie des germes et le rôle des parasites dans la transmission de certaines maladies, détourne à plusieurs égards l’importance donnée à la topographie et au climat comme unique étiologie.
+
+Nous avons souhaité considérer la répartition géographique des contributions à nos deux revues afin d’en saisir les territoires d’intérêt. En effet, la publication dans une revue officielle de mémoires originaux et de rapports effectués à l’administration nous renseigne sur ce que les autorités ministérielles estimaient comme pertinent pour la gouvernance des territoires.
+
+Une des majeurs avancées de notre année a donc été de mettre en place une méthode et de collecter les données permettant de cartographier l'ensemble des contributions à nos revues. Cette dernière est le résultat de deux démarches complémentaires. La première est la reconnaissance d'entités nommées que nous avons adapté à notre corpus. La seconde a été la désambiguïsation des entités géographiques repérérés par notre pipeline pour les faire correspondre aux coordonnées géographiques. Cette démarche, a nécessité le recours à deux bases de données à partir desquelles nous avons créé une pipeline dédiée à nos archives : GeoPolHist\footnote{Béatrice Dedinger, \& Paul Girard. (2021). GeoPolHist dataset (Version 202103) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4600809, consulté le 3 juin 2021} ainsi que l'assistance de recherche géographique des Archives nationales d'Outre-mer \footnote{http://anom.archivesnationales.culture.gouv.fr/geo.php?ir=, consulté le 3 juin 2021}. 
+
+
+\subsection{Récupération des entités nommées par article}
+Dans le cadre du master Humanités numériques, nous avons souhaité proposer un rendu tirant aussi parti de l’enseignement de Traitement automatique de la langue proposé par M. Thierry Poibeau. Ainsi, pour cartographier nos deux revues de 1898 à 1908, nous avons procédé à une reconnaissance d’entités nommées. Cette démarche nous a entre autres permis d’extraire de 1198 titres d’article deux types d’entités nommées aisément cartographiables: les Geopolitical Entities (GPE) et Location (LOC). Les GPE correspondent à l’ensemble des noms de lieux dépendant d’une entité apparentée à une administration (pays, région, province, ville, village etc.). Les LOC désignent pour leur part les entités nommées «purement» géographiques, n’étant pas par le résultat d’une intervention humaine (cours d’eau, montagne, mer, etc.).
+
+En raison de problèmes techniques nous ayant fait perdre la quasi-totalité de nos annotations manuelles sur Doccano, nous avons eu recours au premier de notre 5-fold cross validation set pour entraîner un NLP et l’appliquer à nos sources7. Au total, 559 entités GPE et LOC ont été reconnues par notre NLP parmi lesquelles nous avons décompté 225 lieux différents. Néanmoins, n’ayant pu entraîner totalement notre NLP, nous avons donc eu quelques faux positifs parmi cette liste :
+
+Si certains font référence à des notions scientifiques (Caldwelle-Luc, Danaïde, Surra, Phlégéton), d’autres sont en fait des épithètes liées à des entités GPE ou LOC. Par exemple : « Annamite » se référant à l’Annam, « Bambaras » à la région située entre l’actuel Mail, le Sénégal et le Burkina Faso. D’autres enfin sont le résultat d’une séparation des tokens d’une même EN comme « Nord » qui se trouve être en fait issu de « Cochinchine du Nord » ce qui n’est donc pas totalement incorrect mais tout de même faux au regard des attentes d’une démarche de reconnaissance d’entités nommées.
+L’exploration de nos entités nommées GPE nous ont confirmé la nécessité d’avoir un fond de carte permettant de rendre compte de la situation politique de chacune d’entre elles au cours de la période que nous étudions.
+
+\subsection{Le monde au début du XXe siècle}
+
+./data/1-QGIS\_GPH\_HistNatBound.ipynb
+
+Un enjeu principal de notre démarche fut la constitution d’une carte du monde reflétant les frontières d’époque, notamment entre États souverains et territoires dépendants. Pour cela, nous avons eu recours à deux bases de données dont nous avons fait correspondre les entités pour obtenir le fond de carte de notre projet (cf Annexe 2). Nous avons ainsi eu recours aux données de deux projets accessibles librement en ligne.
+Le premier est « Historic National Boundaries »de l’Université de Minnesota, disponible sur ArcGIS que nous avons téléchargé en format GeoJSON grâce au SQL d’ArcGIS online. Cette base nous a permis d’avoir les shapes des entités géopolitiques. Le second est les données historiques fournies par le projet GeoPolHist du Medialab porté par Paul Girard 9 . Très complète, cette base de données permet de multiples exploitations grâce au travail de systématisation des données de 1815 à nos jours. Cette base nous a permis de saisir le statut précis des territoires étudiés à la date de 1914.
+
+\textbf{Limites : imprécisions et illusions}
+
+Si ces deux bases de données sont en anglais, elles diffèrent par leur degré de précision. Au regard de notre volonté de cartographier les données, nous avons priorisé les données de l’université de Minnesota au détriment de la précision des données du Médialab. Ainsi par exemple, il n’existe dans la base de données ArcGIS qu’une seule shape pour l’ensemble de l’Algérie, le Haut-Sénégal, le Soudan français et le Burkina Faso alors même que leurs statuts de dépendance à la France n’était pas identique sur toute la période que nous étudions.
+
+Enfin, il nous semble que notre carte est téléologique à plusieurs égards. Premièrement, le fond de carte, trouvé sur ArcGIS, date de 1914 tandis que nos entités débutent en 1898. Deuxièmement, la carte donne l’illusion d’une maîtrise continue du territoire tandis qu’il est nécessaire de considérer les empires comme une "collection éparse de territoires de tailles variables"10 sur laquelle le pouvoir est exercé de manière discontinue.
+
+Comme mentionné précédemment, le principal enjeu de la constituions de cette carte fut la désambiguïsation des noms d’entités géopolitiques et des noms de lieux géographiques.
+Pour cela, nous avons eu recours à trois bases de données que nous avons enrichies mutuellement. La raison pour ce recours multiple est que deux de ces bases de données étaient déjà affiliées à des coordonnées géographiques tandis que la troisième nous servait de complément pour les noms de lieux n’apparaissant pas dans les précédentes listes.
+
+
+%%%%RETOURS CRITIQUES%%%%
+\subsection{Retour critique sur notre démarche et projection pour l'an prochain}
+
+Il nous importe de même de mettre cette carte en perspective avec les problématiques relatives à l’appropriation coloniale de l’espace au travers de la construction des savoirs géographiques et des pratiques spatiales. En effet, en aillant recours à une représentation à l’échelle mondiale et datant de 1914, non seulement nous nous conformons à une vision téléologique des appropriations coloniales mais participons de même à supposer que les puissances coloniales avaient un pouvoir continu alors même que certaines régions, comme le Sahara\footnote{Cette région a notamment fait l'objet d'une étude approfondie par Hélène Blais dans \cite{blais_territoires_2020}}, n’étaient que très peu maîtrisées. Cette différenciation, primordiale entre représentation de la domination de l'espace par les savoirs coloniaux et l'espace de la domination en pratique n’a pas pu être développé dans ce premier rendu et nous considérerons pour l’année prochaine une manière d’en rendre mieux compte.
+
+
+A plus long terme, l’objectif est en effet de nous munir de bases de données et de fonds de cartes exploitables pour notre rendu final de mémoire en M2. En effet, nous souhaitons pour l’an prochain cartographier l’ensemble des contributions aux trois revues que nous étudions et de détailler plus encore le cadre dans lequel ces territoires sont évoqués : compte rendu d’expédition, géographie médicale, clinique, rapports sur d’autres empires etc.). L’idée étant aussi de coupler ces recherches avec du topic modelling sur l’ensemble de notre période (1898- 1940) pour saisir plus précisément le jeu des échelles qui transparaissent dans notre revue, allant du micro au macroscopique, cherchant tantôt dans l’environnement, tantôt dans les cellules, les conditions d’apparition, de développement de certaines pathologies et les moyens pour les endiguer.
+
+
